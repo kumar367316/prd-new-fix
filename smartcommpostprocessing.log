@@ -1,0 +1,1698 @@
+2022-09-09 11:14:06,632 [INFO] - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-09 11:14:06,657 [INFO] - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 6924 (D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main\target\classes started by kumar.charanswain in D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main)
+2022-09-09 11:14:06,660 [INFO] - The following 1 profile is active: "dev"
+2022-09-09 11:14:07,405 [INFO] - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-09 11:14:07,808 [INFO] - Tomcat initialized with port(s): 8080 (http)
+2022-09-09 11:14:07,826 [INFO] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-09 11:14:07,828 [INFO] - Starting service [Tomcat]
+2022-09-09 11:14:07,829 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-09 11:14:08,268 [INFO] - Initializing Spring embedded WebApplicationContext
+2022-09-09 11:14:08,269 [INFO] - Root WebApplicationContext: initialization completed in 1565 ms
+2022-09-09 11:14:12,070 [INFO] - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-09 11:14:12,098 [INFO] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 11:14:12,671 [INFO] - Started PostProcessingApplication in 15.407 seconds (JVM running for 16.632)
+2022-09-09 11:14:20,368 [INFO] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-09 11:14:20,369 [INFO] - Initializing Servlet 'dispatcherServlet'
+2022-09-09 11:14:20,370 [INFO] - Completed initialization in 1 ms
+2022-09-09 11:14:20,398 [INFO] - postprocessing started
+2022-09-09 11:14:21,211 [INFO] - total number of file inside print is 0
+2022-09-09 11:14:22,113 [INFO] - move to temp-archive20220907085836W003841971e5d7Z4_printArchive_PG.pdf
+2022-09-09 11:14:22,269 [INFO] - move to temp-archive20220907085836W003841971e5d7Z4_printArchive_PG.xml
+2022-09-09 11:14:22,379 [INFO] - move to temp-archive20220907085843W003805302IHcgqo_printArchive_PG_CC_1.pdf
+2022-09-09 11:14:22,498 [INFO] - move to temp-archive20220907085843W003805302IHcgqo_printArchive_PG_CC_1.xml
+2022-09-09 11:14:22,744 [INFO] - move to temp-archive20220907085846W003841971t0W37e_printArchive_PG.pdf
+2022-09-09 11:14:22,865 [INFO] - move to temp-archive20220907085846W003841971t0W37e_printArchive_PG.xml
+2022-09-09 11:14:22,979 [INFO] - move to temp-archive20220907085856L003841751DMz7Yb_archiveOnly_PG.pdf
+2022-09-09 11:14:23,090 [INFO] - move to temp-archive20220907085856L003841751DMz7Yb_archiveOnly_PG.xml
+2022-09-09 11:14:23,217 [INFO] - move to temp-archive20220907085859W003841971aSPHrY_printArchive_PG.pdf
+2022-09-09 11:14:23,341 [INFO] - move to temp-archive20220907085859W003841971aSPHrY_printArchive_PG.xml
+2022-09-09 11:14:23,459 [INFO] - move to temp-archive20220907085906L003841751mBsbt4_archiveOnly_PG.pdf
+2022-09-09 11:14:23,579 [INFO] - move to temp-archive20220907085906L003841751mBsbt4_archiveOnly_PG.xml
+2022-09-09 11:14:23,694 [INFO] - move to temp-archive20220907085907W0038418614vH1fV_printArchive_PG.pdf
+2022-09-09 11:14:23,823 [INFO] - move to temp-archive20220907085907W0038418614vH1fV_printArchive_PG.xml
+2022-09-09 11:14:24,037 [INFO] - move to temp-archive20220907085916L003841751r2fWGF_archiveOnly_PG.pdf
+2022-09-09 11:14:24,158 [INFO] - move to temp-archive20220907085916L003841751r2fWGF_archiveOnly_PG.xml
+2022-09-09 11:14:24,282 [INFO] - move to temp-archive20220907085917W0038418611q6Ofp_printArchive_PG.pdf
+2022-09-09 11:14:24,399 [INFO] - move to temp-archive20220907085917W0038418611q6Ofp_printArchive_PG.xml
+2022-09-09 11:14:24,518 [INFO] - move to temp-archive20220907085926L003841751tlLVR0_archiveOnly_PG.pdf
+2022-09-09 11:14:24,653 [INFO] - move to temp-archive20220907085926L003841751tlLVR0_archiveOnly_PG.xml
+2022-09-09 11:14:24,759 [INFO] - move to temp-archive20220907085936L003841751aebt3W_archiveOnly_PG.pdf
+2022-09-09 11:14:24,918 [INFO] - move to temp-archive20220907085936L003841751aebt3W_archiveOnly_PG.xml
+2022-09-09 11:14:25,040 [INFO] - move to temp-archive20220907090042W003544501kSIlQy_archiveOnly_PG.pdf
+2022-09-09 11:14:25,540 [INFO] - move to temp-archive20220907090042W003544501kSIlQy_archiveOnly_PG.xml
+2022-09-09 11:14:25,659 [INFO] - move to temp-archive20220907090048W003553263Y6V1K2_archiveOnly_PG.pdf
+2022-09-09 11:14:25,779 [INFO] - move to temp-archive20220907090048W003553263Y6V1K2_archiveOnly_PG.xml
+2022-09-09 11:14:25,900 [INFO] - move to temp-archive20220907090226L003841751c9aaQO_archiveOnly_PG.pdf
+2022-09-09 11:14:26,029 [INFO] - move to temp-archive20220907090226L003841751c9aaQO_archiveOnly_PG.xml
+2022-09-09 11:14:26,140 [INFO] - move to temp-archive20220907090236L003841751Mr3Qbl_archiveOnly_PG.pdf
+2022-09-09 11:14:26,259 [INFO] - move to temp-archive20220907090236L003841751Mr3Qbl_archiveOnly_PG.xml
+2022-09-09 11:14:26,377 [INFO] - move to temp-archive20220907090246L003841751QciGFB_archiveOnly_PG.pdf
+2022-09-09 11:14:26,571 [INFO] - move to temp-archive20220907090246L003841751QciGFB_archiveOnly_PG.xml
+2022-09-09 11:14:26,678 [INFO] - move to temp-archive20220907090256L003841751O2M4Lc_archiveOnly_PG.pdf
+2022-09-09 11:14:26,798 [INFO] - move to temp-archive20220907090256L003841751O2M4Lc_archiveOnly_PG.xml
+2022-09-09 11:14:26,932 [INFO] - move to temp-archive20220907090306L003841751mRqF82_archiveOnly_PG.pdf
+2022-09-09 11:14:27,059 [INFO] - move to temp-archive20220907090306L003841751mRqF82_archiveOnly_PG.xml
+2022-09-09 11:14:27,178 [INFO] - move to temp-archive20220907090326L003842140n2OVnX_archiveOnly_PG.pdf
+2022-09-09 11:14:27,298 [INFO] - move to temp-archive20220907090326L003842140n2OVnX_archiveOnly_PG.xml
+2022-09-09 11:14:27,419 [INFO] - move to temp-archive20220907090336W003763112sYUS4f_printArchive_PG.pdf
+2022-09-09 11:14:27,578 [INFO] - move to temp-archive20220907090336W003763112sYUS4f_printArchive_PG.xml
+2022-09-09 11:14:27,749 [INFO] - move to temp-archive20220907090420W003609681WZLAJx_archiveOnly_PG.pdf
+2022-09-09 11:14:27,899 [INFO] - move to temp-archive20220907090420W003609681WZLAJx_archiveOnly_PG.xml
+2022-09-09 11:14:28,018 [INFO] - move to temp-archive20220907090526W003805189RESAHA_printArchive_PG.pdf
+2022-09-09 11:14:28,137 [INFO] - move to temp-archive20220907090526W003805189RESAHA_printArchive_PG.xml
+2022-09-09 11:14:28,251 [INFO] - move to temp-archive20220907090601W003517782yd8Orx_archiveOnly_PG_CC_1.pdf
+2022-09-09 11:14:28,378 [INFO] - move to temp-archive20220907090601W003517782yd8Orx_archiveOnly_PG_CC_1.xml
+2022-09-09 11:14:28,536 [INFO] - move to temp-archive20220907090736W003841997RC9a8m_printArchive_PG.pdf
+2022-09-09 11:14:28,640 [INFO] - move to temp-archive20220907090736W003841997RC9a8m_printArchive_PG.xml
+2022-09-09 11:14:28,768 [INFO] - move to temp-archive20220907090738L002751260OlEbK9_archiveOnly_PG.pdf
+2022-09-09 11:14:28,877 [INFO] - move to temp-archive20220907090738L002751260OlEbK9_archiveOnly_PG.xml
+2022-09-09 11:14:28,996 [INFO] - move to temp-archive20220907090803W0037314944CBgJp_printArchive_PG.pdf
+2022-09-09 11:14:29,159 [INFO] - move to temp-archive20220907090803W0037314944CBgJp_printArchive_PG.xml
+2022-09-09 11:14:29,328 [INFO] - move to temp-archive20220907090842W0033684925o1IJi_printArchive_PG.pdf
+2022-09-09 11:14:29,457 [INFO] - move to temp-archive20220907090842W0033684925o1IJi_printArchive_PG.xml
+2022-09-09 11:14:29,583 [INFO] - move to temp-archive20220907090906L003842065d9OhxQ_printArchive_PG.pdf
+2022-09-09 11:14:29,699 [INFO] - move to temp-archive20220907090906L003842065d9OhxQ_printArchive_PG.xml
+2022-09-09 11:14:29,819 [INFO] - move to temp-archive20220907090916W003842159lESF1z_printArchive_PG.pdf
+2022-09-09 11:14:29,939 [INFO] - move to temp-archive20220907090916W003842159lESF1z_printArchive_PG.xml
+2022-09-09 11:14:30,058 [INFO] - move to temp-archive20220907090946W0038416987UYqKd_printArchive_PG.pdf
+2022-09-09 11:14:30,180 [INFO] - move to temp-archive20220907090946W0038416987UYqKd_printArchive_PG.xml
+2022-09-09 11:14:30,375 [INFO] - move to temp-archive20220907091012W001297175nMozpE_printArchive_SelfAddressed_CC_1.pdf
+2022-09-09 11:14:30,540 [INFO] - move to temp-archive20220907091012W001297175nMozpE_printArchive_SelfAddressed_CC_1.xml
+2022-09-09 11:14:30,663 [INFO] - move to temp-archive20220907091016L003837724fRqgpo_printArchive_PG.pdf
+2022-09-09 11:14:30,779 [INFO] - move to temp-archive20220907091016L003837724fRqgpo_printArchive_PG.xml
+2022-09-09 11:14:30,903 [INFO] - move to temp-archive20220907091036W003842265gqNDav_printArchive_PG.pdf
+2022-09-09 11:14:31,023 [INFO] - move to temp-archive20220907091036W003842265gqNDav_printArchive_PG.xml
+2022-09-09 11:14:31,136 [INFO] - move to temp-archive20220907091046W003842264P12gGE_archiveOnly_PG.pdf
+2022-09-09 11:14:31,258 [INFO] - move to temp-archive20220907091046W003842264P12gGE_archiveOnly_PG.xml
+2022-09-09 11:14:31,382 [INFO] - move to temp-archive20220907091056W003842264NqYOJD_archiveOnly_PG.pdf
+2022-09-09 11:14:31,501 [INFO] - move to temp-archive20220907091056W003842264NqYOJD_archiveOnly_PG.xml
+2022-09-09 11:14:31,765 [INFO] - move to temp-archive20220907091106W003842264rn1I5D_printArchive_PG.pdf
+2022-09-09 11:14:31,926 [INFO] - move to temp-archive20220907091106W003842264rn1I5D_printArchive_PG.xml
+2022-09-09 11:14:32,040 [INFO] - move to temp-archive20220907091109W003842263q08teh_printArchive_PG.pdf
+2022-09-09 11:14:32,219 [INFO] - move to temp-archive20220907091109W003842263q08teh_printArchive_PG.xml
+2022-09-09 11:14:32,341 [INFO] - move to temp-archive20220907091116W003842264LByWCV_printArchive_PG.pdf
+2022-09-09 11:14:32,461 [INFO] - move to temp-archive20220907091116W003842264LByWCV_printArchive_PG.xml
+2022-09-09 11:14:32,578 [INFO] - move to temp-archive20220907091117W003842263oOP3uU_archiveOnly_PG.pdf
+2022-09-09 11:14:32,709 [INFO] - move to temp-archive20220907091117W003842263oOP3uU_archiveOnly_PG.xml
+2022-09-09 11:14:32,840 [INFO] - move to temp-archive20220907091118L0038377243k1Z1K_printArchive_PG.pdf
+2022-09-09 11:14:32,979 [INFO] - move to temp-archive20220907091118L0038377243k1Z1K_printArchive_PG.xml
+2022-09-09 11:14:33,099 [INFO] - move to temp-archive20220907091126W003842264ceTc8N_archiveOnly_PG.pdf
+2022-09-09 11:14:33,218 [INFO] - move to temp-archive20220907091126W003842264ceTc8N_archiveOnly_PG.xml
+2022-09-09 11:14:33,339 [INFO] - move to temp-archive20220907091127W003842263vlBQkh_archiveOnly_PG.pdf
+2022-09-09 11:14:33,458 [INFO] - move to temp-archive20220907091127W003842263vlBQkh_archiveOnly_PG.xml
+2022-09-09 11:14:33,578 [INFO] - move to temp-archive20220907091128W003842268myA90K_archiveOnly_PG.pdf
+2022-09-09 11:14:33,699 [INFO] - move to temp-archive20220907091128W003842268myA90K_archiveOnly_PG.xml
+2022-09-09 11:14:33,819 [INFO] - move to temp-archive20220907091130W003712753P2AE6V_archiveOnly_PG.pdf
+2022-09-09 11:14:33,939 [INFO] - move to temp-archive20220907091130W003712753P2AE6V_archiveOnly_PG.xml
+2022-09-09 11:14:34,059 [INFO] - move to temp-archive20220907091136W003842263kzNAVb_archiveOnly_PG.pdf
+2022-09-09 11:14:34,279 [INFO] - move to temp-archive20220907091136W003842263kzNAVb_archiveOnly_PG.xml
+2022-09-09 11:14:34,399 [INFO] - move to temp-archive20220907091146W003842263yO6t7r_printArchive_PG.pdf
+2022-09-09 11:14:34,518 [INFO] - move to temp-archive20220907091146W003842263yO6t7r_printArchive_PG.xml
+2022-09-09 11:14:34,639 [INFO] - move to temp-archive20220907091156W003842263HstrnJ_archiveOnly_PG.pdf
+2022-09-09 11:14:34,758 [INFO] - move to temp-archive20220907091156W003842263HstrnJ_archiveOnly_PG.xml
+2022-09-09 11:14:34,879 [INFO] - move to temp-archive20220907091216W003842258XqB61S_archiveOnly_PG.pdf
+2022-09-09 11:14:34,999 [INFO] - move to temp-archive20220907091216W003842258XqB61S_archiveOnly_PG.xml
+2022-09-09 11:14:35,128 [INFO] - move to temp-archive20220907091217W003842260gtsFCD_printArchive_PG.pdf
+2022-09-09 11:14:35,240 [INFO] - move to temp-archive20220907091217W003842260gtsFCD_printArchive_PG.xml
+2022-09-09 11:14:35,640 [INFO] - move to temp-archive20220907091226W003842258S6ZqXB_archiveOnly_PG.pdf
+2022-09-09 11:14:35,758 [INFO] - move to temp-archive20220907091226W003842258S6ZqXB_archiveOnly_PG.xml
+2022-09-09 11:14:35,880 [INFO] - move to temp-archive20220907091227W0038422604nYOtC_printArchive_PG.pdf
+2022-09-09 11:14:36,007 [INFO] - move to temp-archive20220907091227W0038422604nYOtC_printArchive_PG.xml
+2022-09-09 11:14:36,129 [INFO] - move to temp-archive20220907091236W003842258bsnDe7_archiveOnly_PG.pdf
+2022-09-09 11:14:36,239 [INFO] - move to temp-archive20220907091236W003842258bsnDe7_archiveOnly_PG.xml
+2022-09-09 11:14:36,357 [INFO] - move to temp-archive20220907091237L003837724GcgdI0_printArchive_PG.pdf
+2022-09-09 11:14:36,493 [INFO] - move to temp-archive20220907091237L003837724GcgdI0_printArchive_PG.xml
+2022-09-09 11:14:36,621 [INFO] - move to temp-archive20220907091246W003842258ppQy7V_archiveOnly_PG.pdf
+2022-09-09 11:14:36,798 [INFO] - move to temp-archive20220907091246W003842258ppQy7V_archiveOnly_PG.xml
+2022-09-09 11:14:36,918 [INFO] - move to temp-archive20220907091248W003842262R3R9Qk_printArchive_PG.pdf
+2022-09-09 11:14:37,041 [INFO] - move to temp-archive20220907091248W003842262R3R9Qk_printArchive_PG.xml
+2022-09-09 11:14:37,157 [INFO] - move to temp-archive20220907091320W003842258yHSHVL_archiveOnly_PG.pdf
+2022-09-09 11:14:37,278 [INFO] - move to temp-archive20220907091320W003842258yHSHVL_archiveOnly_PG.xml
+2022-09-09 11:14:37,397 [INFO] - move to temp-archive20220907091321W003842262oozgG9_printArchive_PG.pdf
+2022-09-09 11:14:37,517 [INFO] - move to temp-archive20220907091321W003842262oozgG9_printArchive_PG.xml
+2022-09-09 11:14:37,639 [INFO] - move to temp-archive20220907091322W003842258LgAmRb_archiveOnly_PG.pdf
+2022-09-09 11:14:37,760 [INFO] - move to temp-archive20220907091322W003842258LgAmRb_archiveOnly_PG.xml
+2022-09-09 11:14:37,895 [INFO] - move to temp-archive20220907091323W0038422702O8NOK_archiveOnly_PG.pdf
+2022-09-09 11:14:38,100 [INFO] - move to temp-archive20220907091323W0038422702O8NOK_archiveOnly_PG.xml
+2022-09-09 11:14:38,223 [INFO] - move to temp-archive20220907091332W0037645564EYfCa_archiveOnly_PG.pdf
+2022-09-09 11:14:38,372 [INFO] - move to temp-archive20220907091332W0037645564EYfCa_archiveOnly_PG.xml
+2022-09-09 11:14:38,529 [INFO] - move to temp-archive20220907091332W003842258UqLPbI_archiveOnly_PG.pdf
+2022-09-09 11:14:38,640 [INFO] - move to temp-archive20220907091332W003842258UqLPbI_archiveOnly_PG.xml
+2022-09-09 11:14:38,758 [INFO] - move to temp-archive20220907091333W003842270Ccmcf0_archiveOnly_PG.pdf
+2022-09-09 11:14:38,929 [INFO] - move to temp-archive20220907091333W003842270Ccmcf0_archiveOnly_PG.xml
+2022-09-09 11:14:39,078 [INFO] - move to temp-archive20220907091342W003842258aChWEd_archiveOnly_PG.pdf
+2022-09-09 11:14:39,240 [INFO] - move to temp-archive20220907091342W003842258aChWEd_archiveOnly_PG.xml
+2022-09-09 11:14:39,437 [INFO] - move to temp-archive20220907091343W003842270fnieak_printArchive_PG.pdf
+2022-09-09 11:14:39,540 [INFO] - move to temp-archive20220907091343W003842270fnieak_printArchive_PG.xml
+2022-09-09 11:14:39,664 [INFO] - move to temp-archive20220907091344W00384226993oRzL_archiveOnly_PG.pdf
+2022-09-09 11:14:39,806 [INFO] - move to temp-archive20220907091344W00384226993oRzL_archiveOnly_PG.xml
+2022-09-09 11:14:39,932 [INFO] - move to temp-archive20220907091352W003842258T59Hfn_archiveOnly_PG.pdf
+2022-09-09 11:14:40,039 [INFO] - move to temp-archive20220907091352W003842258T59Hfn_archiveOnly_PG.xml
+2022-09-09 11:14:40,172 [INFO] - move to temp-archive20220907091353W003842269Ie2Z0K_archiveOnly_PG.pdf
+2022-09-09 11:14:40,277 [INFO] - move to temp-archive20220907091353W003842269Ie2Z0K_archiveOnly_PG.xml
+2022-09-09 11:14:40,407 [INFO] - move to temp-archive20220907091354W003841705CsDwPa_printArchive_PG.pdf
+2022-09-09 11:14:40,762 [INFO] - move to temp-archive20220907091354W003841705CsDwPa_printArchive_PG.xml
+2022-09-09 11:14:40,878 [INFO] - move to temp-archive20220907091402W0038422586zoiCX_printArchive_PG.pdf
+2022-09-09 11:14:40,986 [INFO] - move to temp-archive20220907091402W0038422586zoiCX_printArchive_PG.xml
+2022-09-09 11:14:41,106 [INFO] - move to temp-archive20220907091403W003842269GcYyyP_archiveOnly_PG.pdf
+2022-09-09 11:14:41,218 [INFO] - move to temp-archive20220907091403W003842269GcYyyP_archiveOnly_PG.xml
+2022-09-09 11:14:41,340 [INFO] - move to temp-archive20220907091409W003841132hKMx5H_printArchive_PG.pdf
+2022-09-09 11:14:41,469 [INFO] - move to temp-archive20220907091409W003841132hKMx5H_printArchive_PG.xml
+2022-09-09 11:14:41,578 [INFO] - move to temp-archive20220907091412W003842269QYxu3c_archiveOnly_PG.pdf
+2022-09-09 11:14:41,696 [INFO] - move to temp-archive20220907091412W003842269QYxu3c_archiveOnly_PG.xml
+2022-09-09 11:14:41,878 [INFO] - move to temp-archive20220907091415W003524204gaEJZC_archiveOnly_PG.pdf
+2022-09-09 11:14:42,000 [INFO] - move to temp-archive20220907091415W003524204gaEJZC_archiveOnly_PG.xml
+2022-09-09 11:14:42,132 [INFO] - move to temp-archive20220907091422W0038422695PRs7E_printArchive_PG.pdf
+2022-09-09 11:14:42,237 [INFO] - move to temp-archive20220907091422W0038422695PRs7E_printArchive_PG.xml
+2022-09-09 11:14:42,357 [INFO] - move to temp-archive20220907091423L003842146SEC0C1_archiveOnly_PG.pdf
+2022-09-09 11:14:42,478 [INFO] - move to temp-archive20220907091423L003842146SEC0C1_archiveOnly_PG.xml
+2022-09-09 11:14:42,598 [INFO] - move to temp-archive20220907091432W003842269CeDBR9_archiveOnly_PG.pdf
+2022-09-09 11:14:42,719 [INFO] - move to temp-archive20220907091432W003842269CeDBR9_archiveOnly_PG.xml
+2022-09-09 11:14:42,839 [INFO] - move to temp-archive20220907091542W0035242042EBskT_archiveOnly_PG.pdf
+2022-09-09 11:14:42,957 [INFO] - move to temp-archive20220907091542W0035242042EBskT_archiveOnly_PG.xml
+2022-09-09 11:14:43,105 [INFO] - move to temp-archive20220907091635W890013716hbBsDb_archiveOnly_SelfAddressed.pdf
+2022-09-09 11:14:43,217 [INFO] - move to temp-archive20220907091635W890013716hbBsDb_archiveOnly_SelfAddressed.xml
+2022-09-09 11:14:43,339 [INFO] - move to temp-archive20220907091652W003842261Kb00cO_printArchive_PG.pdf
+2022-09-09 11:14:43,458 [INFO] - move to temp-archive20220907091652W003842261Kb00cO_printArchive_PG.xml
+2022-09-09 11:14:43,581 [INFO] - move to temp-archive20220907091700W003339905EC2xDj_archiveOnly_PG.pdf
+2022-09-09 11:14:43,701 [INFO] - move to temp-archive20220907091700W003339905EC2xDj_archiveOnly_PG.xml
+2022-09-09 11:14:43,819 [INFO] - move to temp-archive20220907091740W003722343n1yLMY_archiveOnly_PG.pdf
+2022-09-09 11:14:43,940 [INFO] - move to temp-archive20220907091740W003722343n1yLMY_archiveOnly_PG.xml
+2022-09-09 11:14:44,107 [INFO] - move to temp-archive20220907091757W003367212B5AYWR_archiveOnly_PG.pdf
+2022-09-09 11:14:44,217 [INFO] - move to temp-archive20220907091757W003367212B5AYWR_archiveOnly_PG.xml
+2022-09-09 11:14:44,718 [INFO] - move to temp-archive20220907091843L003842097maz3Qe_archiveOnly_PG.pdf
+2022-09-09 11:14:44,839 [INFO] - move to temp-archive20220907091843L003842097maz3Qe_archiveOnly_PG.xml
+2022-09-09 11:14:44,959 [INFO] - move to temp-archive20220907091853L003842097fr0PH3_archiveOnly_PG.pdf
+2022-09-09 11:14:45,078 [INFO] - move to temp-archive20220907091853L003842097fr0PH3_archiveOnly_PG.xml
+2022-09-09 11:14:45,214 [INFO] - move to temp-archive20220907091910W0033684921Th5xN_printArchive_PG.pdf
+2022-09-09 11:14:45,339 [INFO] - move to temp-archive20220907091910W0033684921Th5xN_printArchive_PG.xml
+2022-09-09 11:14:45,461 [INFO] - move to temp-archive20220907091937W003362933ZnpAPP_archiveOnly_PG.pdf
+2022-09-09 11:14:45,581 [INFO] - move to temp-archive20220907091937W003362933ZnpAPP_archiveOnly_PG.xml
+2022-09-09 11:14:45,803 [INFO] - move to temp-archive20220907092003W003841185ki9a8X_printArchive_PG.pdf
+2022-09-09 11:14:45,925 [INFO] - move to temp-archive20220907092003W003841185ki9a8X_printArchive_PG.xml
+2022-09-09 11:14:46,037 [INFO] - move to temp-archive20220907092012W003841185mINFbs_printArchive_PG.pdf
+2022-09-09 11:14:46,157 [INFO] - move to temp-archive20220907092012W003841185mINFbs_printArchive_PG.xml
+2022-09-09 11:14:46,275 [INFO] - move to temp-archive20220907092119W899912524cXmaZS_archiveOnly_PG_CC_4.pdf
+2022-09-09 11:14:46,401 [INFO] - move to temp-archive20220907092119W899912524cXmaZS_archiveOnly_PG_CC_4.xml
+2022-09-09 11:14:46,519 [INFO] - move to temp-archive20220907092203W003841874N4b8Gr_printArchive_PG.pdf
+2022-09-09 11:14:46,641 [INFO] - move to temp-archive20220907092203W003841874N4b8Gr_printArchive_PG.xml
+2022-09-09 11:14:46,759 [INFO] - move to temp-archive20220907092228W003841729Ok2Tvo_printArchive_PG.pdf
+2022-09-09 11:14:46,919 [INFO] - move to temp-archive20220907092228W003841729Ok2Tvo_printArchive_PG.xml
+2022-09-09 11:14:47,079 [INFO] - move to temp-archive20220907092253W003841874xpC8nH_printArchive_PG.pdf
+2022-09-09 11:14:47,198 [INFO] - move to temp-archive20220907092253W003841874xpC8nH_printArchive_PG.xml
+2022-09-09 11:14:47,330 [INFO] - move to temp-archive20220907092343W003842278tXDUh4_archiveOnly_PG.pdf
+2022-09-09 11:14:47,440 [INFO] - move to temp-archive20220907092343W003842278tXDUh4_archiveOnly_PG.xml
+2022-09-09 11:14:47,559 [INFO] - move to temp-archive20220907092353W003842278Xtqvke_archiveOnly_PG.pdf
+2022-09-09 11:14:47,705 [INFO] - move to temp-archive20220907092353W003842278Xtqvke_archiveOnly_PG.xml
+2022-09-09 11:14:47,817 [INFO] - move to temp-archive20220907092403W003842278HMF9kZ_archiveOnly_PG.pdf
+2022-09-09 11:14:47,940 [INFO] - move to temp-archive20220907092403W003842278HMF9kZ_archiveOnly_PG.xml
+2022-09-09 11:14:48,059 [INFO] - move to temp-archive20220907092413W003842278r2R0pC_archiveOnly_PG.pdf
+2022-09-09 11:14:48,279 [INFO] - move to temp-archive20220907092413W003842278r2R0pC_archiveOnly_PG.xml
+2022-09-09 11:14:48,439 [INFO] - move to temp-archive20220907092414W003711053BaLS9c_printArchive_PG.pdf
+2022-09-09 11:14:48,561 [INFO] - move to temp-archive20220907092414W003711053BaLS9c_printArchive_PG.xml
+2022-09-09 11:14:48,678 [INFO] - move to temp-archive20220907092423W003842278pXiM1V_printArchive_PG.pdf
+2022-09-09 11:14:48,789 [INFO] - move to temp-archive20220907092423W003842278pXiM1V_printArchive_PG.xml
+2022-09-09 11:14:48,943 [INFO] - move to temp-archive20220907092443L003842104Zyu5dI_archiveOnly_PG.pdf
+2022-09-09 11:14:49,058 [INFO] - move to temp-archive20220907092443L003842104Zyu5dI_archiveOnly_PG.xml
+2022-09-09 11:14:49,183 [INFO] - move to temp-archive20220907092633W003842272kTIuud_printArchive_PG.pdf
+2022-09-09 11:14:49,300 [INFO] - move to temp-archive20220907092633W003842272kTIuud_printArchive_PG.xml
+2022-09-09 11:14:49,419 [INFO] - move to temp-archive20220907092643W003842272fc8XO1_printArchive_PG.pdf
+2022-09-09 11:14:49,642 [INFO] - move to temp-archive20220907092643W003842272fc8XO1_printArchive_PG.xml
+2022-09-09 11:14:49,762 [INFO] - move to temp-archive20220907092653W003842272wtnkuf_printArchive_PG.pdf
+2022-09-09 11:14:49,878 [INFO] - move to temp-archive20220907092653W003842272wtnkuf_printArchive_PG.xml
+2022-09-09 11:14:50,001 [INFO] - move to temp-archive20220907092723W003842292Qj3Xx4_archiveOnly_PG.pdf
+2022-09-09 11:14:50,119 [INFO] - move to temp-archive20220907092723W003842292Qj3Xx4_archiveOnly_PG.xml
+2022-09-09 11:14:50,239 [INFO] - move to temp-archive20220907092733W003842292G6maWb_archiveOnly_PG.pdf
+2022-09-09 11:14:50,372 [INFO] - move to temp-archive20220907092733W003842292G6maWb_archiveOnly_PG.xml
+2022-09-09 11:14:50,517 [INFO] - move to temp-archive20220907092734W003842276M0h7nL_archiveOnly_PG.pdf
+2022-09-09 11:14:50,639 [INFO] - move to temp-archive20220907092734W003842276M0h7nL_archiveOnly_PG.xml
+2022-09-09 11:14:50,757 [INFO] - move to temp-archive20220907092735W003841345wVsp9B_archiveOnly_PG.pdf
+2022-09-09 11:14:50,889 [INFO] - move to temp-archive20220907092735W003841345wVsp9B_archiveOnly_PG.xml
+2022-09-09 11:14:51,018 [INFO] - move to temp-archive20220907092743W003842292XnmIvm_archiveOnly_PG.pdf
+2022-09-09 11:14:51,141 [INFO] - move to temp-archive20220907092743W003842292XnmIvm_archiveOnly_PG.xml
+2022-09-09 11:14:51,238 [INFO] - move to temp-archive20220907092744W0038422762GAztG_archiveOnly_PG.pdf
+2022-09-09 11:14:51,356 [INFO] - move to temp-archive20220907092744W0038422762GAztG_archiveOnly_PG.xml
+2022-09-09 11:14:51,490 [INFO] - move to temp-archive20220907092745W003841345TpPZym_archiveOnly_PG.pdf
+2022-09-09 11:14:51,617 [INFO] - move to temp-archive20220907092745W003841345TpPZym_archiveOnly_PG.xml
+2022-09-09 11:14:51,741 [INFO] - move to temp-archive20220907092748W0033738914rEAd8_archiveOnly_PG.pdf
+2022-09-09 11:14:51,858 [INFO] - move to temp-archive20220907092748W0033738914rEAd8_archiveOnly_PG.xml
+2022-09-09 11:14:51,983 [INFO] - move to temp-archive20220907092753W0038422925jajEN_printArchive_PG.pdf
+2022-09-09 11:14:52,188 [INFO] - move to temp-archive20220907092753W0038422925jajEN_printArchive_PG.xml
+2022-09-09 11:14:52,322 [INFO] - move to temp-archive20220907092754W003842276ObPW84_archiveOnly_PG.pdf
+2022-09-09 11:14:52,439 [INFO] - move to temp-archive20220907092754W003842276ObPW84_archiveOnly_PG.xml
+2022-09-09 11:14:52,557 [INFO] - move to temp-archive20220907092755W00384134518h559_archiveOnly_PG.pdf
+2022-09-09 11:14:52,677 [INFO] - move to temp-archive20220907092755W00384134518h559_archiveOnly_PG.xml
+2022-09-09 11:14:52,801 [INFO] - move to temp-archive20220907092756W0038422837gYFW7_archiveOnly_PG.pdf
+2022-09-09 11:14:52,919 [INFO] - move to temp-archive20220907092756W0038422837gYFW7_archiveOnly_PG.xml
+2022-09-09 11:14:53,051 [INFO] - move to temp-archive20220907092757W003711063cbcNlx_printArchive_PG.pdf
+2022-09-09 11:14:53,158 [INFO] - move to temp-archive20220907092757W003711063cbcNlx_printArchive_PG.xml
+2022-09-09 11:14:53,318 [INFO] - move to temp-archive20220907092803W003841345WxOl16_archiveOnly_PG.pdf
+2022-09-09 11:14:53,465 [INFO] - move to temp-archive20220907092803W003841345WxOl16_archiveOnly_PG.xml
+2022-09-09 11:14:53,578 [INFO] - move to temp-archive20220907092804W003842283OrhXo4_printArchive_PG.pdf
+2022-09-09 11:14:53,703 [INFO] - move to temp-archive20220907092804W003842283OrhXo4_printArchive_PG.xml
+2022-09-09 11:14:53,943 [INFO] - move to temp-archive20220907092813W003841345hot6HG_printArchive_PG.pdf
+2022-09-09 11:14:54,078 [INFO] - move to temp-archive20220907092813W003841345hot6HG_printArchive_PG.xml
+2022-09-09 11:14:54,201 [INFO] - move to temp-archive20220907092814L0035915717mTtmZ_archiveOnly_PG.pdf
+2022-09-09 11:14:54,329 [INFO] - move to temp-archive20220907092814L0035915717mTtmZ_archiveOnly_PG.xml
+2022-09-09 11:14:54,449 [INFO] - move to temp-archive20220907092814W003842275Wk7nu8_printArchive_PG.pdf
+2022-09-09 11:14:54,858 [INFO] - move to temp-archive20220907092814W003842275Wk7nu8_printArchive_PG.xml
+2022-09-09 11:14:54,977 [INFO] - move to temp-archive20220907092823W003841345YX6kdv_archiveOnly_PG.pdf
+2022-09-09 11:14:55,099 [INFO] - move to temp-archive20220907092823W003841345YX6kdv_archiveOnly_PG.xml
+2022-09-09 11:14:55,223 [INFO] - move to temp-archive20220907092834W003842282olCTT9_archiveOnly_PG.pdf
+2022-09-09 11:14:55,341 [INFO] - move to temp-archive20220907092834W003842282olCTT9_archiveOnly_PG.xml
+2022-09-09 11:14:55,460 [INFO] - move to temp-archive20220907092835W003379171tl7Tn7_archiveOnly_PG.pdf
+2022-09-09 11:14:55,579 [INFO] - move to temp-archive20220907092835W003379171tl7Tn7_archiveOnly_PG.xml
+2022-09-09 11:14:55,711 [INFO] - move to temp-archive20220907092843W003842282jtyzDT_printArchive_PG.pdf
+2022-09-09 11:14:55,878 [INFO] - move to temp-archive20220907092843W003842282jtyzDT_printArchive_PG.xml
+2022-09-09 11:14:56,027 [INFO] - move to temp-archive20220907092914W003842274wp04FF_archiveOnly_PG.pdf
+2022-09-09 11:14:56,159 [INFO] - move to temp-archive20220907092914W003842274wp04FF_archiveOnly_PG.xml
+2022-09-09 11:14:56,280 [INFO] - move to temp-archive20220907092923W003842274PXMQ9H_printArchive_PG.pdf
+2022-09-09 11:14:56,411 [INFO] - move to temp-archive20220907092923W003842274PXMQ9H_printArchive_PG.xml
+2022-09-09 11:14:56,518 [INFO] - move to temp-archive20220907092924W003842273DQAAP1_printArchive_PG.pdf
+2022-09-09 11:14:56,640 [INFO] - move to temp-archive20220907092924W003842273DQAAP1_printArchive_PG.xml
+2022-09-09 11:14:56,760 [INFO] - move to temp-archive20220907092934W003842015sPH3Oh_archiveOnly_PG.pdf
+2022-09-09 11:14:56,877 [INFO] - move to temp-archive20220907092934W003842015sPH3Oh_archiveOnly_PG.xml
+2022-09-09 11:14:57,066 [INFO] - move to temp-archive20220907092943W003842015K3US3s_archiveOnly_PG.pdf
+2022-09-09 11:14:57,177 [INFO] - move to temp-archive20220907092943W003842015K3US3s_archiveOnly_PG.xml
+2022-09-09 11:14:57,285 [INFO] - move to temp-archive20220907092944W003842281Ms4Bs2_archiveOnly_PG.pdf
+2022-09-09 11:14:57,399 [INFO] - move to temp-archive20220907092944W003842281Ms4Bs2_archiveOnly_PG.xml
+2022-09-09 11:14:57,519 [INFO] - move to temp-archive20220907092953W003842015whWt3w_archiveOnly_PG.pdf
+2022-09-09 11:14:57,638 [INFO] - move to temp-archive20220907092953W003842015whWt3w_archiveOnly_PG.xml
+2022-09-09 11:14:57,758 [INFO] - move to temp-archive20220907092954W003842281E8WYgB_archiveOnly_PG.pdf
+2022-09-09 11:14:57,877 [INFO] - move to temp-archive20220907092954W003842281E8WYgB_archiveOnly_PG.xml
+2022-09-09 11:14:57,998 [INFO] - move to temp-archive20220907092955W003711080w21t2D_printArchive_PG.pdf
+2022-09-09 11:14:58,118 [INFO] - move to temp-archive20220907092955W003711080w21t2D_printArchive_PG.xml
+2022-09-09 11:14:58,240 [INFO] - move to temp-archive20220907093001W003827160fRMZhc_printArchive_PG.pdf
+2022-09-09 11:14:58,364 [INFO] - move to temp-archive20220907093001W003827160fRMZhc_printArchive_PG.xml
+2022-09-09 11:14:58,573 [INFO] - move to temp-archive20220907093003W0038420153rXAHA_archiveOnly_PG.pdf
+2022-09-09 11:14:58,705 [INFO] - move to temp-archive20220907093003W0038420153rXAHA_archiveOnly_PG.xml
+2022-09-09 11:14:58,828 [INFO] - move to temp-archive20220907093004W003842281V1rkrk_printArchive_PG.pdf
+2022-09-09 11:14:58,939 [INFO] - move to temp-archive20220907093004W003842281V1rkrk_printArchive_PG.xml
+2022-09-09 11:14:59,057 [INFO] - move to temp-archive20220907093005W003842286AJJKTx_printArchive_PG.pdf
+2022-09-09 11:14:59,190 [INFO] - move to temp-archive20220907093005W003842286AJJKTx_printArchive_PG.xml
+2022-09-09 11:14:59,297 [INFO] - move to temp-archive20220907093013W003842015fZDYB4_printArchive_PG.pdf
+2022-09-09 11:14:59,436 [INFO] - move to temp-archive20220907093013W003842015fZDYB4_printArchive_PG.xml
+2022-09-09 11:14:59,558 [INFO] - move to temp-archive20220907093014W003842281xozbrs_printArchive_PG.pdf
+2022-09-09 11:14:59,717 [INFO] - move to temp-archive20220907093014W003842281xozbrs_printArchive_PG.xml
+2022-09-09 11:14:59,879 [INFO] - move to temp-archive20220907093023W003842015KamGcx_archiveOnly_PG.pdf
+2022-09-09 11:14:59,997 [INFO] - move to temp-archive20220907093023W003842015KamGcx_archiveOnly_PG.xml
+2022-09-09 11:15:00,119 [INFO] - move to temp-archive20220907093024W003842293osen9n_archiveOnly_PG.pdf
+2022-09-09 11:15:00,298 [INFO] - move to temp-archive20220907093024W003842293osen9n_archiveOnly_PG.xml
+2022-09-09 11:15:00,417 [INFO] - move to temp-archive20220907093033W003842293wdjqrj_archiveOnly_PG.pdf
+2022-09-09 11:15:00,565 [INFO] - move to temp-archive20220907093033W003842293wdjqrj_archiveOnly_PG.xml
+2022-09-09 11:15:00,680 [INFO] - move to temp-archive20220907093043W003842293y7PpFi_archiveOnly_PG.pdf
+2022-09-09 11:15:00,799 [INFO] - move to temp-archive20220907093043W003842293y7PpFi_archiveOnly_PG.xml
+2022-09-09 11:15:00,925 [INFO] - move to temp-archive20220907093053W003842293qjgeQe_archiveOnly_PG.pdf
+2022-09-09 11:15:01,262 [INFO] - move to temp-archive20220907093053W003842293qjgeQe_archiveOnly_PG.xml
+2022-09-09 11:15:01,377 [INFO] - move to temp-archive20220907093054W003842291u9Yucw_archiveOnly_PG.pdf
+2022-09-09 11:15:01,474 [INFO] - move to temp-archive20220907093054W003842291u9Yucw_archiveOnly_PG.xml
+2022-09-09 11:15:01,598 [INFO] - move to temp-archive20220907093102W003819260yjF57a_archiveOnly_PG.pdf
+2022-09-09 11:15:01,713 [INFO] - move to temp-archive20220907093102W003819260yjF57a_archiveOnly_PG.xml
+2022-09-09 11:15:01,818 [INFO] - move to temp-archive20220907093103W003842293xykXqS_printArchive_PG.pdf
+2022-09-09 11:15:01,948 [INFO] - move to temp-archive20220907093103W003842293xykXqS_printArchive_PG.xml
+2022-09-09 11:15:02,078 [INFO] - move to temp-archive20220907093104W003842291XcCIQr_archiveOnly_PG.pdf
+2022-09-09 11:15:02,202 [INFO] - move to temp-archive20220907093104W003842291XcCIQr_archiveOnly_PG.xml
+2022-09-09 11:15:02,422 [INFO] - move to temp-archive20220907093112W003667886nF6lzF_archiveOnly_PG.pdf
+2022-09-09 11:15:02,542 [INFO] - move to temp-archive20220907093112W003667886nF6lzF_archiveOnly_PG.xml
+2022-09-09 11:15:02,660 [INFO] - move to temp-archive20220907093113W0038422911SWbzz_printArchive_PG.pdf
+2022-09-09 11:15:02,782 [INFO] - move to temp-archive20220907093113W0038422911SWbzz_printArchive_PG.xml
+2022-09-09 11:15:02,898 [INFO] - move to temp-archive20220907093122W003367323IAIdXx_archiveOnly_PG.pdf
+2022-09-09 11:15:03,018 [INFO] - move to temp-archive20220907093122W003367323IAIdXx_archiveOnly_PG.xml
+2022-09-09 11:15:03,138 [INFO] - move to temp-archive20220907093153W003842290uNQwMy_archiveOnly_PG.pdf
+2022-09-09 11:15:03,306 [INFO] - move to temp-archive20220907093153W003842290uNQwMy_archiveOnly_PG.xml
+2022-09-09 11:15:03,419 [INFO] - move to temp-archive20220907093203W003842290wjc7mo_printArchive_PG.pdf
+2022-09-09 11:15:03,898 [INFO] - move to temp-archive20220907093203W003842290wjc7mo_printArchive_PG.xml
+2022-09-09 11:15:04,017 [INFO] - move to temp-archive20220907093213W003842290FTjKMy_archiveOnly_PG.pdf
+2022-09-09 11:15:04,140 [INFO] - move to temp-archive20220907093213W003842290FTjKMy_archiveOnly_PG.xml
+2022-09-09 11:15:04,279 [INFO] - move to temp-archive20220907093248W003379597b659u0_archiveOnly_PG.pdf
+2022-09-09 11:15:04,398 [INFO] - move to temp-archive20220907093248W003379597b659u0_archiveOnly_PG.xml
+2022-09-09 11:15:04,524 [INFO] - move to temp-archive20220907093346W003803679OQtcMS_archiveOnly_PG.pdf
+2022-09-09 11:15:04,639 [INFO] - move to temp-archive20220907093346W003803679OQtcMS_archiveOnly_PG.xml
+2022-09-09 11:15:04,759 [INFO] - move to temp-archive20220907093424W003586654JMW1AR_archiveOnly_PG.pdf
+2022-09-09 11:15:04,974 [INFO] - move to temp-archive20220907093424W003586654JMW1AR_archiveOnly_PG.xml
+2022-09-09 11:15:05,078 [INFO] - move to temp-archive20220907093438W002775976qdGBu2_archiveOnly_PG.pdf
+2022-09-09 11:15:05,198 [INFO] - move to temp-archive20220907093438W002775976qdGBu2_archiveOnly_PG.xml
+2022-09-09 11:15:05,321 [INFO] - move to temp-archive20220907093458W003840624YnCzpQ_printArchive_PG.pdf
+2022-09-09 11:15:05,439 [INFO] - move to temp-archive20220907093458W003840624YnCzpQ_printArchive_PG.xml
+2022-09-09 11:15:05,557 [INFO] - move to temp-archive20220907093503L003842226Hj3ZK3_printArchive_PG.pdf
+2022-09-09 11:15:05,678 [INFO] - move to temp-archive20220907093503L003842226Hj3ZK3_printArchive_PG.xml
+2022-09-09 11:15:05,777 [INFO] - move to temp-archive20220907093504W003841718sP1XVD_printArchive_PG.pdf
+2022-09-09 11:15:05,899 [INFO] - move to temp-archive20220907093504W003841718sP1XVD_printArchive_PG.xml
+2022-09-09 11:15:06,027 [INFO] - move to temp-archive20220907093528W003670598mBId18_archiveOnly_PG.pdf
+2022-09-09 11:15:06,252 [INFO] - move to temp-archive20220907093528W003670598mBId18_archiveOnly_PG.xml
+2022-09-09 11:15:06,360 [INFO] - move to temp-archive20220907093550W003819260Fkbd5B_archiveOnly_PG.pdf
+2022-09-09 11:15:06,538 [INFO] - move to temp-archive20220907093550W003819260Fkbd5B_archiveOnly_PG.xml
+2022-09-09 11:15:06,659 [INFO] - move to temp-archive20220907093613W003838253rkLYK8_printArchive_PG_CC_1.pdf
+2022-09-09 11:15:06,780 [INFO] - move to temp-archive20220907093613W003838253rkLYK8_printArchive_PG_CC_1.xml
+2022-09-09 11:15:06,901 [INFO] - move to temp-archive20220907093614W002775976Itcrpa_archiveOnly_PG.pdf
+2022-09-09 11:15:07,020 [INFO] - move to temp-archive20220907093614W002775976Itcrpa_archiveOnly_PG.xml
+2022-09-09 11:15:07,138 [INFO] - move to temp-archive20220907093625W003601599r24QB9_archiveOnly_PG.pdf
+2022-09-09 11:15:07,256 [INFO] - move to temp-archive20220907093625W003601599r24QB9_archiveOnly_PG.xml
+2022-09-09 11:15:07,399 [INFO] - move to temp-archive20220907093634W003842166rpdoH0_archiveOnly_PG.pdf
+2022-09-09 11:15:07,557 [INFO] - move to temp-archive20220907093634W003842166rpdoH0_archiveOnly_PG.xml
+2022-09-09 11:15:07,678 [INFO] - move to temp-archive20220907093634W0038422997qD7Sm_printArchive_PG.pdf
+2022-09-09 11:15:07,802 [INFO] - move to temp-archive20220907093634W0038422997qD7Sm_printArchive_PG.xml
+2022-09-09 11:15:07,921 [INFO] - move to temp-archive20220907093636W003821916VuBQmU_printArchive_PG.pdf
+2022-09-09 11:15:08,039 [INFO] - move to temp-archive20220907093636W003821916VuBQmU_printArchive_PG.xml
+2022-09-09 11:15:08,157 [INFO] - move to temp-archive20220907093644W003842166zj7vHS_archiveOnly_PG.pdf
+2022-09-09 11:15:08,277 [INFO] - move to temp-archive20220907093644W003842166zj7vHS_archiveOnly_PG.xml
+2022-09-09 11:15:08,398 [INFO] - move to temp-archive20220907093653W003842166NINXze_archiveOnly_PG.pdf
+2022-09-09 11:15:08,517 [INFO] - move to temp-archive20220907093653W003842166NINXze_archiveOnly_PG.xml
+2022-09-09 11:15:08,680 [INFO] - move to temp-archive20220907093656W003422815qIzB1J_archiveOnly_PG.pdf
+2022-09-09 11:15:08,816 [INFO] - move to temp-archive20220907093656W003422815qIzB1J_archiveOnly_PG.xml
+2022-09-09 11:15:08,942 [INFO] - move to temp-archive20220907093703W0038421668ndyHL_printArchive_PG.pdf
+2022-09-09 11:15:09,060 [INFO] - move to temp-archive20220907093703W0038421668ndyHL_printArchive_PG.xml
+2022-09-09 11:15:09,178 [INFO] - move to temp-archive20220907093714L003841791XOZ0s9_archiveOnly_PG.pdf
+2022-09-09 11:15:09,298 [INFO] - move to temp-archive20220907093714L003841791XOZ0s9_archiveOnly_PG.xml
+2022-09-09 11:15:09,418 [INFO] - move to temp-archive20220907093714W003842166cn4MTw_printArchive_PG.pdf
+2022-09-09 11:15:09,544 [INFO] - move to temp-archive20220907093714W003842166cn4MTw_printArchive_PG.xml
+2022-09-09 11:15:09,759 [INFO] - move to temp-archive20220907093715W003841780Nu9VKd_archiveOnly_PG.pdf
+2022-09-09 11:15:09,908 [INFO] - move to temp-archive20220907093715W003841780Nu9VKd_archiveOnly_PG.xml
+2022-09-09 11:15:10,019 [INFO] - move to temp-archive20220907093723L0038417916FLNWQ_archiveOnly_PG.pdf
+2022-09-09 11:15:10,148 [INFO] - move to temp-archive20220907093723L0038417916FLNWQ_archiveOnly_PG.xml
+2022-09-09 11:15:10,263 [INFO] - move to temp-archive20220907093724W003841780HjYqju_printArchive_PG.pdf
+2022-09-09 11:15:10,381 [INFO] - move to temp-archive20220907093724W003841780HjYqju_printArchive_PG.xml
+2022-09-09 11:15:10,499 [INFO] - move to temp-archive20220907093733L003841791u8ySkN_archiveOnly_PG.pdf
+2022-09-09 11:15:10,621 [INFO] - move to temp-archive20220907093733L003841791u8ySkN_archiveOnly_PG.xml
+2022-09-09 11:15:10,751 [INFO] - move to temp-archive20220907093734W003841780oUoWBN_printArchive_PG.pdf
+2022-09-09 11:15:10,859 [INFO] - move to temp-archive20220907093734W003841780oUoWBN_printArchive_PG.xml
+2022-09-09 11:15:10,981 [INFO] - move to temp-archive20220907093743L003841791MDaOCy_archiveOnly_PG.pdf
+2022-09-09 11:15:11,100 [INFO] - move to temp-archive20220907093743L003841791MDaOCy_archiveOnly_PG.xml
+2022-09-09 11:15:11,229 [INFO] - move to temp-archive20220907093753L003841791riT59Z_printArchive_PG.pdf
+2022-09-09 11:15:11,348 [INFO] - move to temp-archive20220907093753L003841791riT59Z_printArchive_PG.xml
+2022-09-09 11:15:11,459 [INFO] - move to temp-archive20220907093755W003823921DKFEUn_printArchive_PG.pdf
+2022-09-09 11:15:11,576 [INFO] - move to temp-archive20220907093755W003823921DKFEUn_printArchive_PG.xml
+2022-09-09 11:15:11,694 [INFO] - move to temp-archive20220907093923W002682935tP8NxN_archiveOnly_PG.pdf
+2022-09-09 11:15:11,818 [INFO] - move to temp-archive20220907093923W002682935tP8NxN_archiveOnly_PG.xml
+2022-09-09 11:15:11,938 [INFO] - move to temp-archive20220907093923W003841915Zv6caD_printArchive_PG.pdf
+2022-09-09 11:15:12,058 [INFO] - move to temp-archive20220907093923W003841915Zv6caD_printArchive_PG.xml
+2022-09-09 11:15:12,258 [INFO] - move to temp-archive20220907093943W003842300FBHgfN_printArchive_PG.pdf
+2022-09-09 11:15:12,366 [INFO] - move to temp-archive20220907093943W003842300FBHgfN_printArchive_PG.xml
+2022-09-09 11:15:12,517 [INFO] - move to temp-archive20220907093944L003769083Hl137r_archiveOnly_PG.pdf
+2022-09-09 11:15:12,739 [INFO] - move to temp-archive20220907093944L003769083Hl137r_archiveOnly_PG.xml
+2022-09-09 11:15:12,850 [INFO] - move to temp-archive20220907093954W002231623k6jm3C_printArchive_PG_CC_2.pdf
+2022-09-09 11:15:12,981 [INFO] - move to temp-archive20220907093954W002231623k6jm3C_printArchive_PG_CC_2.xml
+2022-09-09 11:15:13,104 [INFO] - move to temp-archive20220907094002W899813823yL5inF_printArchive_SelfAddressed_CC_1.pdf
+2022-09-09 11:15:13,223 [INFO] - move to temp-archive20220907094002W899813823yL5inF_printArchive_SelfAddressed_CC_1.xml
+2022-09-09 11:15:13,337 [INFO] - move to temp-archive20220907094010W003707544xL3Ukz_archiveOnly_PG.pdf
+2022-09-09 11:15:13,461 [INFO] - move to temp-archive20220907094010W003707544xL3Ukz_archiveOnly_PG.xml
+2022-09-09 11:15:13,579 [INFO] - move to temp-archive20220907094030W0036678868FZByK_archiveOnly_PG.pdf
+2022-09-09 11:15:13,700 [INFO] - move to temp-archive20220907094030W0036678868FZByK_archiveOnly_PG.xml
+2022-09-09 11:15:13,825 [INFO] - move to temp-archive20220907094106W002682935u6XmXL_archiveOnly_PG.pdf
+2022-09-09 11:15:13,973 [INFO] - move to temp-archive20220907094106W002682935u6XmXL_archiveOnly_PG.xml
+2022-09-09 11:15:14,072 [INFO] - move to temp-archive20220907094233L0038417761vI7pB_archiveOnly_PG.pdf
+2022-09-09 11:15:14,199 [INFO] - move to temp-archive20220907094233L0038417761vI7pB_archiveOnly_PG.xml
+2022-09-09 11:15:14,306 [INFO] - move to temp-archive20220907094234W003842303FY1pXQ_printArchive_PG.pdf
+2022-09-09 11:15:14,425 [INFO] - move to temp-archive20220907094234W003842303FY1pXQ_printArchive_PG.xml
+2022-09-09 11:15:14,547 [INFO] - move to temp-archive20220907094243L003841776CFwDP4_archiveOnly_PG.pdf
+2022-09-09 11:15:14,659 [INFO] - move to temp-archive20220907094243L003841776CFwDP4_archiveOnly_PG.xml
+2022-09-09 11:15:14,780 [INFO] - move to temp-archive20220907094244W003842303IOtXC7_printArchive_PG.pdf
+2022-09-09 11:15:14,897 [INFO] - move to temp-archive20220907094244W003842303IOtXC7_printArchive_PG.xml
+2022-09-09 11:15:15,022 [INFO] - move to temp-archive20220907094254L0038417764Bg91q_archiveOnly_PG.pdf
+2022-09-09 11:15:15,369 [INFO] - move to temp-archive20220907094254L0038417764Bg91q_archiveOnly_PG.xml
+2022-09-09 11:15:15,497 [INFO] - move to temp-archive20220907094254W0038423084E7Rb1_printArchive_PG.pdf
+2022-09-09 11:15:15,598 [INFO] - move to temp-archive20220907094254W0038423084E7Rb1_printArchive_PG.xml
+2022-09-09 11:15:15,719 [INFO] - move to temp-archive20220907094317W003819260IwU5dg_archiveOnly_PG.pdf
+2022-09-09 11:15:15,897 [INFO] - move to temp-archive20220907094317W003819260IwU5dg_archiveOnly_PG.xml
+2022-09-09 11:15:16,018 [INFO] - move to temp-archive20220907094320W003840176HDdz3K_printArchive_PG.pdf
+2022-09-09 11:15:16,195 [INFO] - move to temp-archive20220907094320W003840176HDdz3K_printArchive_PG.xml
+2022-09-09 11:15:16,297 [INFO] - move to temp-archive20220907094327L003841776ctRFbP_archiveOnly_PG.pdf
+2022-09-09 11:15:16,509 [INFO] - move to temp-archive20220907094327L003841776ctRFbP_archiveOnly_PG.xml
+2022-09-09 11:15:16,618 [INFO] - move to temp-archive20220907094328L0038417769yyDiH_printArchive_PG.pdf
+2022-09-09 11:15:16,739 [INFO] - move to temp-archive20220907094328L0038417769yyDiH_printArchive_PG.xml
+2022-09-09 11:15:16,858 [INFO] - move to temp-archive20220907103707W003826405CCddxk_printArchive_SelfAddressed.pdf
+2022-09-09 11:15:16,972 [INFO] - move to temp-archive20220907103707W003826405CCddxk_printArchive_SelfAddressed.xml
+2022-09-09 11:15:17,098 [INFO] - move to temp-archive20220907115116W003842470vCCUj8_archiveOnly_PG.pdf
+2022-09-09 11:15:17,217 [INFO] - move to temp-archive20220907115116W003842470vCCUj8_archiveOnly_PG.xml
+2022-09-09 11:15:17,339 [INFO] - move to temp-archive20220907182438W003838511KlCCh2_printArchive_PG.pdf
+2022-09-09 11:15:17,462 [INFO] - move to temp-archive20220907182438W003838511KlCCh2_printArchive_PG.xml
+2022-09-09 11:15:17,579 [INFO] - total number of file inside temp-archive is 410
+2022-09-09 11:15:19,357 [INFO] - process file:20220907085836W003841971e5d7Z4_printArchive_PG.pdf
+2022-09-09 11:15:24,372 [INFO] - process file:20220907085836W003841971e5d7Z4_printArchive_PG.xml
+2022-09-09 11:15:25,077 [INFO] - process file:20220907085843W003805302IHcgqo_printArchive_PG_CC_1.pdf
+2022-09-09 11:15:27,111 [INFO] - process file:20220907085843W003805302IHcgqo_printArchive_PG_CC_1.xml
+2022-09-09 11:15:27,692 [INFO] - process file:20220907085846W003841971t0W37e_printArchive_PG.pdf
+2022-09-09 11:15:29,743 [INFO] - process file:20220907085846W003841971t0W37e_printArchive_PG.xml
+2022-09-09 11:15:30,378 [INFO] - process file:20220907085856L003841751DMz7Yb_archiveOnly_PG.pdf
+2022-09-09 11:15:31,444 [INFO] - process file:20220907085856L003841751DMz7Yb_archiveOnly_PG.xml
+2022-09-09 11:15:57,626 [INFO] - process file:20220907085859W003841971aSPHrY_printArchive_PG.pdf
+2022-09-09 11:15:59,345 [INFO] - process file:20220907085859W003841971aSPHrY_printArchive_PG.xml
+2022-09-09 11:16:00,004 [INFO] - process file:20220907085906L003841751mBsbt4_archiveOnly_PG.pdf
+2022-09-09 11:16:01,413 [INFO] - process file:20220907085906L003841751mBsbt4_archiveOnly_PG.xml
+2022-09-09 11:16:01,882 [INFO] - process file:20220907085907W0038418614vH1fV_printArchive_PG.pdf
+2022-09-09 11:16:05,424 [INFO] - process file:20220907085907W0038418614vH1fV_printArchive_PG.xml
+2022-09-09 11:16:06,041 [INFO] - process file:20220907085916L003841751r2fWGF_archiveOnly_PG.pdf
+2022-09-09 11:16:06,775 [INFO] - process file:20220907085916L003841751r2fWGF_archiveOnly_PG.xml
+2022-09-09 11:16:07,224 [INFO] - process file:20220907085917W0038418611q6Ofp_printArchive_PG.pdf
+2022-09-09 11:16:08,682 [INFO] - process file:20220907085917W0038418611q6Ofp_printArchive_PG.xml
+2022-09-09 11:16:09,399 [INFO] - process file:20220907085926L003841751tlLVR0_archiveOnly_PG.pdf
+2022-09-09 11:16:10,611 [INFO] - process file:20220907085926L003841751tlLVR0_archiveOnly_PG.xml
+2022-09-09 11:16:10,953 [INFO] - process file:20220907085936L003841751aebt3W_archiveOnly_PG.pdf
+2022-09-09 11:16:11,684 [INFO] - process file:20220907085936L003841751aebt3W_archiveOnly_PG.xml
+2022-09-09 11:16:12,036 [INFO] - process file:20220907090042W003544501kSIlQy_archiveOnly_PG.pdf
+2022-09-09 11:16:12,424 [INFO] - process file:20220907090042W003544501kSIlQy_archiveOnly_PG.xml
+2022-09-09 11:16:12,860 [INFO] - process file:20220907090048W003553263Y6V1K2_archiveOnly_PG.pdf
+2022-09-09 11:16:13,503 [INFO] - process file:20220907090048W003553263Y6V1K2_archiveOnly_PG.xml
+2022-09-09 11:16:13,871 [INFO] - process file:20220907090226L003841751c9aaQO_archiveOnly_PG.pdf
+2022-09-09 11:16:15,481 [INFO] - process file:20220907090226L003841751c9aaQO_archiveOnly_PG.xml
+2022-09-09 11:16:15,842 [INFO] - process file:20220907090236L003841751Mr3Qbl_archiveOnly_PG.pdf
+2022-09-09 11:16:16,774 [INFO] - process file:20220907090236L003841751Mr3Qbl_archiveOnly_PG.xml
+2022-09-09 11:16:17,191 [INFO] - process file:20220907090246L003841751QciGFB_archiveOnly_PG.pdf
+2022-09-09 11:16:17,811 [INFO] - process file:20220907090246L003841751QciGFB_archiveOnly_PG.xml
+2022-09-09 11:16:18,149 [INFO] - process file:20220907090256L003841751O2M4Lc_archiveOnly_PG.pdf
+2022-09-09 11:16:18,781 [INFO] - process file:20220907090256L003841751O2M4Lc_archiveOnly_PG.xml
+2022-09-09 11:16:19,322 [INFO] - process file:20220907090306L003841751mRqF82_archiveOnly_PG.pdf
+2022-09-09 11:16:19,967 [INFO] - process file:20220907090306L003841751mRqF82_archiveOnly_PG.xml
+2022-09-09 11:16:20,350 [INFO] - process file:20220907090326L003842140n2OVnX_archiveOnly_PG.pdf
+2022-09-09 11:16:21,011 [INFO] - process file:20220907090326L003842140n2OVnX_archiveOnly_PG.xml
+2022-09-09 11:16:21,351 [INFO] - process file:20220907090336W003763112sYUS4f_printArchive_PG.pdf
+2022-09-09 11:16:22,692 [INFO] - process file:20220907090336W003763112sYUS4f_printArchive_PG.xml
+2022-09-09 11:16:23,330 [INFO] - process file:20220907090420W003609681WZLAJx_archiveOnly_PG.pdf
+2022-09-09 11:16:23,933 [INFO] - process file:20220907090420W003609681WZLAJx_archiveOnly_PG.xml
+2022-09-09 11:16:24,474 [INFO] - process file:20220907090526W003805189RESAHA_printArchive_PG.pdf
+2022-09-09 11:16:26,541 [INFO] - process file:20220907090526W003805189RESAHA_printArchive_PG.xml
+2022-09-09 11:16:27,460 [INFO] - process file:20220907090601W003517782yd8Orx_archiveOnly_PG_CC_1.pdf
+2022-09-09 11:16:28,989 [INFO] - process file:20220907090601W003517782yd8Orx_archiveOnly_PG_CC_1.xml
+2022-09-09 11:16:29,567 [INFO] - process file:20220907090736W003841997RC9a8m_printArchive_PG.pdf
+2022-09-09 11:16:30,820 [INFO] - process file:20220907090736W003841997RC9a8m_printArchive_PG.xml
+2022-09-09 11:16:31,437 [INFO] - process file:20220907090738L002751260OlEbK9_archiveOnly_PG.pdf
+2022-09-09 11:16:32,093 [INFO] - process file:20220907090738L002751260OlEbK9_archiveOnly_PG.xml
+2022-09-09 11:16:32,462 [INFO] - process file:20220907090803W0037314944CBgJp_printArchive_PG.pdf
+2022-09-09 11:16:34,018 [INFO] - process file:20220907090803W0037314944CBgJp_printArchive_PG.xml
+2022-09-09 11:16:34,640 [INFO] - process file:20220907090842W0033684925o1IJi_printArchive_PG.pdf
+2022-09-09 11:16:35,734 [INFO] - process file:20220907090842W0033684925o1IJi_printArchive_PG.xml
+2022-09-09 11:16:36,303 [INFO] - process file:20220907090906L003842065d9OhxQ_printArchive_PG.pdf
+2022-09-09 11:16:37,583 [INFO] - process file:20220907090906L003842065d9OhxQ_printArchive_PG.xml
+2022-09-09 11:16:38,281 [INFO] - process file:20220907090916W003842159lESF1z_printArchive_PG.pdf
+2022-09-09 11:16:39,460 [INFO] - process file:20220907090916W003842159lESF1z_printArchive_PG.xml
+2022-09-09 11:16:40,060 [INFO] - process file:20220907090946W0038416987UYqKd_printArchive_PG.pdf
+2022-09-09 11:16:41,201 [INFO] - process file:20220907090946W0038416987UYqKd_printArchive_PG.xml
+2022-09-09 11:16:41,822 [INFO] - process file:20220907091012W001297175nMozpE_printArchive_SelfAddressed_CC_1.pdf
+2022-09-09 11:16:43,047 [INFO] - process file:20220907091012W001297175nMozpE_printArchive_SelfAddressed_CC_1.xml
+2022-09-09 11:16:43,716 [INFO] - process file:20220907091016L003837724fRqgpo_printArchive_PG.pdf
+2022-09-09 11:16:44,929 [INFO] - process file:20220907091016L003837724fRqgpo_printArchive_PG.xml
+2022-09-09 11:16:45,564 [INFO] - process file:20220907091036W003842265gqNDav_printArchive_PG.pdf
+2022-09-09 11:16:46,864 [INFO] - process file:20220907091036W003842265gqNDav_printArchive_PG.xml
+2022-09-09 11:16:47,641 [INFO] - process file:20220907091046W003842264P12gGE_archiveOnly_PG.pdf
+2022-09-09 11:16:48,225 [INFO] - process file:20220907091046W003842264P12gGE_archiveOnly_PG.xml
+2022-09-09 11:16:48,684 [INFO] - process file:20220907091056W003842264NqYOJD_archiveOnly_PG.pdf
+2022-09-09 11:16:49,243 [INFO] - process file:20220907091056W003842264NqYOJD_archiveOnly_PG.xml
+2022-09-09 11:16:49,609 [INFO] - process file:20220907091106W003842264rn1I5D_printArchive_PG.pdf
+2022-09-09 11:16:50,673 [INFO] - process file:20220907091106W003842264rn1I5D_printArchive_PG.xml
+2022-09-09 11:16:51,311 [INFO] - process file:20220907091109W003842263q08teh_printArchive_PG.pdf
+2022-09-09 11:16:53,054 [INFO] - process file:20220907091109W003842263q08teh_printArchive_PG.xml
+2022-09-09 11:16:53,769 [INFO] - process file:20220907091116W003842264LByWCV_printArchive_PG.pdf
+2022-09-09 11:16:57,107 [INFO] - process file:20220907091116W003842264LByWCV_printArchive_PG.xml
+2022-09-09 11:16:57,843 [INFO] - process file:20220907091117W003842263oOP3uU_archiveOnly_PG.pdf
+2022-09-09 11:16:58,453 [INFO] - process file:20220907091117W003842263oOP3uU_archiveOnly_PG.xml
+2022-09-09 11:16:58,895 [INFO] - process file:20220907091118L0038377243k1Z1K_printArchive_PG.pdf
+2022-09-09 11:17:00,008 [INFO] - process file:20220907091118L0038377243k1Z1K_printArchive_PG.xml
+2022-09-09 11:17:00,641 [INFO] - process file:20220907091126W003842264ceTc8N_archiveOnly_PG.pdf
+2022-09-09 11:17:01,226 [INFO] - process file:20220907091126W003842264ceTc8N_archiveOnly_PG.xml
+2022-09-09 11:17:01,683 [INFO] - process file:20220907091127W003842263vlBQkh_archiveOnly_PG.pdf
+2022-09-09 11:17:02,223 [INFO] - process file:20220907091127W003842263vlBQkh_archiveOnly_PG.xml
+2022-09-09 11:17:02,610 [INFO] - process file:20220907091128W003842268myA90K_archiveOnly_PG.pdf
+2022-09-09 11:17:03,342 [INFO] - process file:20220907091128W003842268myA90K_archiveOnly_PG.xml
+2022-09-09 11:17:03,808 [INFO] - process file:20220907091130W003712753P2AE6V_archiveOnly_PG.pdf
+2022-09-09 11:17:04,483 [INFO] - process file:20220907091130W003712753P2AE6V_archiveOnly_PG.xml
+2022-09-09 11:17:04,893 [INFO] - process file:20220907091136W003842263kzNAVb_archiveOnly_PG.pdf
+2022-09-09 11:17:05,730 [INFO] - process file:20220907091136W003842263kzNAVb_archiveOnly_PG.xml
+2022-09-09 11:17:06,091 [INFO] - process file:20220907091146W003842263yO6t7r_printArchive_PG.pdf
+2022-09-09 11:17:07,320 [INFO] - process file:20220907091146W003842263yO6t7r_printArchive_PG.xml
+2022-09-09 11:17:08,173 [INFO] - process file:20220907091156W003842263HstrnJ_archiveOnly_PG.pdf
+2022-09-09 11:17:09,993 [INFO] - process file:20220907091156W003842263HstrnJ_archiveOnly_PG.xml
+2022-09-09 11:17:10,722 [INFO] - process file:20220907091216W003842258XqB61S_archiveOnly_PG.pdf
+2022-09-09 11:17:11,562 [INFO] - process file:20220907091216W003842258XqB61S_archiveOnly_PG.xml
+2022-09-09 11:17:11,972 [INFO] - process file:20220907091217W003842260gtsFCD_printArchive_PG.pdf
+2022-09-09 11:17:13,194 [INFO] - process file:20220907091217W003842260gtsFCD_printArchive_PG.xml
+2022-09-09 11:17:13,871 [INFO] - process file:20220907091226W003842258S6ZqXB_archiveOnly_PG.pdf
+2022-09-09 11:17:14,694 [INFO] - process file:20220907091226W003842258S6ZqXB_archiveOnly_PG.xml
+2022-09-09 11:17:15,093 [INFO] - process file:20220907091227W0038422604nYOtC_printArchive_PG.pdf
+2022-09-09 11:17:16,246 [INFO] - process file:20220907091227W0038422604nYOtC_printArchive_PG.xml
+2022-09-09 11:17:16,881 [INFO] - process file:20220907091236W003842258bsnDe7_archiveOnly_PG.pdf
+2022-09-09 11:17:17,694 [INFO] - process file:20220907091236W003842258bsnDe7_archiveOnly_PG.xml
+2022-09-09 11:17:18,211 [INFO] - process file:20220907091237L003837724GcgdI0_printArchive_PG.pdf
+2022-09-09 11:17:19,482 [INFO] - process file:20220907091237L003837724GcgdI0_printArchive_PG.xml
+2022-09-09 11:17:20,082 [INFO] - process file:20220907091246W003842258ppQy7V_archiveOnly_PG.pdf
+2022-09-09 11:17:20,926 [INFO] - process file:20220907091246W003842258ppQy7V_archiveOnly_PG.xml
+2022-09-09 11:17:21,326 [INFO] - process file:20220907091248W003842262R3R9Qk_printArchive_PG.pdf
+2022-09-09 11:17:22,372 [INFO] - process file:20220907091248W003842262R3R9Qk_printArchive_PG.xml
+2022-09-09 11:17:22,992 [INFO] - process file:20220907091320W003842258yHSHVL_archiveOnly_PG.pdf
+2022-09-09 11:17:23,793 [INFO] - process file:20220907091320W003842258yHSHVL_archiveOnly_PG.xml
+2022-09-09 11:17:24,161 [INFO] - process file:20220907091321W003842262oozgG9_printArchive_PG.pdf
+2022-09-09 11:17:25,490 [INFO] - process file:20220907091321W003842262oozgG9_printArchive_PG.xml
+2022-09-09 11:17:26,241 [INFO] - process file:20220907091322W003842258LgAmRb_archiveOnly_PG.pdf
+2022-09-09 11:17:26,958 [INFO] - process file:20220907091322W003842258LgAmRb_archiveOnly_PG.xml
+2022-09-09 11:17:27,312 [INFO] - process file:20220907091323W0038422702O8NOK_archiveOnly_PG.pdf
+2022-09-09 11:17:28,023 [INFO] - process file:20220907091323W0038422702O8NOK_archiveOnly_PG.xml
+2022-09-09 11:17:28,441 [INFO] - process file:20220907091332W0037645564EYfCa_archiveOnly_PG.pdf
+2022-09-09 11:17:29,129 [INFO] - process file:20220907091332W0037645564EYfCa_archiveOnly_PG.xml
+2022-09-09 11:17:29,495 [INFO] - process file:20220907091332W003842258UqLPbI_archiveOnly_PG.pdf
+2022-09-09 11:17:30,175 [INFO] - process file:20220907091332W003842258UqLPbI_archiveOnly_PG.xml
+2022-09-09 11:17:30,572 [INFO] - process file:20220907091333W003842270Ccmcf0_archiveOnly_PG.pdf
+2022-09-09 11:17:31,210 [INFO] - process file:20220907091333W003842270Ccmcf0_archiveOnly_PG.xml
+2022-09-09 11:17:31,575 [INFO] - process file:20220907091342W003842258aChWEd_archiveOnly_PG.pdf
+2022-09-09 11:17:32,373 [INFO] - process file:20220907091342W003842258aChWEd_archiveOnly_PG.xml
+2022-09-09 11:17:32,769 [INFO] - process file:20220907091343W003842270fnieak_printArchive_PG.pdf
+2022-09-09 11:17:33,965 [INFO] - process file:20220907091343W003842270fnieak_printArchive_PG.xml
+2022-09-09 11:17:34,609 [INFO] - process file:20220907091344W00384226993oRzL_archiveOnly_PG.pdf
+2022-09-09 11:17:36,164 [INFO] - process file:20220907091344W00384226993oRzL_archiveOnly_PG.xml
+2022-09-09 11:17:36,541 [INFO] - process file:20220907091352W003842258T59Hfn_archiveOnly_PG.pdf
+2022-09-09 11:17:37,447 [INFO] - process file:20220907091352W003842258T59Hfn_archiveOnly_PG.xml
+2022-09-09 11:17:37,773 [INFO] - process file:20220907091353W003842269Ie2Z0K_archiveOnly_PG.pdf
+2022-09-09 11:17:38,385 [INFO] - process file:20220907091353W003842269Ie2Z0K_archiveOnly_PG.xml
+2022-09-09 11:17:38,789 [INFO] - process file:20220907091354W003841705CsDwPa_printArchive_PG.pdf
+2022-09-09 11:17:40,321 [INFO] - process file:20220907091354W003841705CsDwPa_printArchive_PG.xml
+2022-09-09 11:17:40,902 [INFO] - process file:20220907091402W0038422586zoiCX_printArchive_PG.pdf
+2022-09-09 11:17:42,833 [INFO] - process file:20220907091402W0038422586zoiCX_printArchive_PG.xml
+2022-09-09 11:17:43,423 [INFO] - process file:20220907091403W003842269GcYyyP_archiveOnly_PG.pdf
+2022-09-09 11:17:44,340 [INFO] - process file:20220907091403W003842269GcYyyP_archiveOnly_PG.xml
+2022-09-09 11:17:44,704 [INFO] - process file:20220907091409W003841132hKMx5H_printArchive_PG.pdf
+2022-09-09 11:17:46,002 [INFO] - process file:20220907091409W003841132hKMx5H_printArchive_PG.xml
+2022-09-09 11:17:46,741 [INFO] - process file:20220907091412W003842269QYxu3c_archiveOnly_PG.pdf
+2022-09-09 11:17:47,314 [INFO] - process file:20220907091412W003842269QYxu3c_archiveOnly_PG.xml
+2022-09-09 11:17:47,707 [INFO] - process file:20220907091415W003524204gaEJZC_archiveOnly_PG.pdf
+2022-09-09 11:17:48,391 [INFO] - process file:20220907091415W003524204gaEJZC_archiveOnly_PG.xml
+2022-09-09 11:17:49,136 [INFO] - process file:20220907091422W0038422695PRs7E_printArchive_PG.pdf
+2022-09-09 11:17:50,303 [INFO] - process file:20220907091422W0038422695PRs7E_printArchive_PG.xml
+2022-09-09 11:17:50,930 [INFO] - process file:20220907091423L003842146SEC0C1_archiveOnly_PG.pdf
+2022-09-09 11:17:51,755 [INFO] - process file:20220907091423L003842146SEC0C1_archiveOnly_PG.xml
+2022-09-09 11:17:52,155 [INFO] - process file:20220907091432W003842269CeDBR9_archiveOnly_PG.pdf
+2022-09-09 11:17:52,806 [INFO] - process file:20220907091432W003842269CeDBR9_archiveOnly_PG.xml
+2022-09-09 11:17:53,178 [INFO] - process file:20220907091542W0035242042EBskT_archiveOnly_PG.pdf
+2022-09-09 11:17:53,855 [INFO] - process file:20220907091542W0035242042EBskT_archiveOnly_PG.xml
+2022-09-09 11:17:54,219 [INFO] - process file:20220907091635W890013716hbBsDb_archiveOnly_SelfAddressed.pdf
+2022-09-09 11:17:54,873 [INFO] - process file:20220907091635W890013716hbBsDb_archiveOnly_SelfAddressed.xml
+2022-09-09 11:17:55,376 [INFO] - process file:20220907091652W003842261Kb00cO_printArchive_PG.pdf
+2022-09-09 11:17:56,690 [INFO] - process file:20220907091652W003842261Kb00cO_printArchive_PG.xml
+2022-09-09 11:17:57,261 [INFO] - process file:20220907091700W003339905EC2xDj_archiveOnly_PG.pdf
+2022-09-09 11:17:57,974 [INFO] - process file:20220907091700W003339905EC2xDj_archiveOnly_PG.xml
+2022-09-09 11:17:58,378 [INFO] - process file:20220907091740W003722343n1yLMY_archiveOnly_PG.pdf
+2022-09-09 11:17:59,075 [INFO] - process file:20220907091740W003722343n1yLMY_archiveOnly_PG.xml
+2022-09-09 11:17:59,431 [INFO] - process file:20220907091757W003367212B5AYWR_archiveOnly_PG.pdf
+2022-09-09 11:18:00,049 [INFO] - process file:20220907091757W003367212B5AYWR_archiveOnly_PG.xml
+2022-09-09 11:18:00,458 [INFO] - process file:20220907091843L003842097maz3Qe_archiveOnly_PG.pdf
+2022-09-09 11:18:01,105 [INFO] - process file:20220907091843L003842097maz3Qe_archiveOnly_PG.xml
+2022-09-09 11:18:01,500 [INFO] - process file:20220907091853L003842097fr0PH3_archiveOnly_PG.pdf
+2022-09-09 11:18:02,052 [INFO] - process file:20220907091853L003842097fr0PH3_archiveOnly_PG.xml
+2022-09-09 11:18:02,420 [INFO] - process file:20220907091910W0033684921Th5xN_printArchive_PG.pdf
+2022-09-09 11:18:03,691 [INFO] - process file:20220907091910W0033684921Th5xN_printArchive_PG.xml
+2022-09-09 11:18:04,391 [INFO] - process file:20220907091937W003362933ZnpAPP_archiveOnly_PG.pdf
+2022-09-09 11:18:04,966 [INFO] - process file:20220907091937W003362933ZnpAPP_archiveOnly_PG.xml
+2022-09-09 11:18:05,444 [INFO] - process file:20220907092003W003841185ki9a8X_printArchive_PG.pdf
+2022-09-09 11:18:06,595 [INFO] - process file:20220907092003W003841185ki9a8X_printArchive_PG.xml
+2022-09-09 11:18:07,218 [INFO] - process file:20220907092012W003841185mINFbs_printArchive_PG.pdf
+2022-09-09 11:18:08,472 [INFO] - process file:20220907092012W003841185mINFbs_printArchive_PG.xml
+2022-09-09 11:18:09,153 [INFO] - process file:20220907092119W899912524cXmaZS_archiveOnly_PG_CC_4.pdf
+2022-09-09 11:18:10,335 [INFO] - process file:20220907092119W899912524cXmaZS_archiveOnly_PG_CC_4.xml
+2022-09-09 11:18:13,477 [INFO] - process file:20220907092203W003841874N4b8Gr_printArchive_PG.pdf
+2022-09-09 11:18:23,689 [INFO] - process file:20220907092203W003841874N4b8Gr_printArchive_PG.xml
+2022-09-09 11:18:24,376 [INFO] - process file:20220907092228W003841729Ok2Tvo_printArchive_PG.pdf
+2022-09-09 11:18:25,689 [INFO] - process file:20220907092228W003841729Ok2Tvo_printArchive_PG.xml
+2022-09-09 11:18:26,389 [INFO] - process file:20220907092253W003841874xpC8nH_printArchive_PG.pdf
+2022-09-09 11:18:28,190 [INFO] - process file:20220907092253W003841874xpC8nH_printArchive_PG.xml
+2022-09-09 11:18:28,847 [INFO] - process file:20220907092343W003842278tXDUh4_archiveOnly_PG.pdf
+2022-09-09 11:18:29,576 [INFO] - process file:20220907092343W003842278tXDUh4_archiveOnly_PG.xml
+2022-09-09 11:18:30,029 [INFO] - process file:20220907092353W003842278Xtqvke_archiveOnly_PG.pdf
+2022-09-09 11:18:31,136 [INFO] - process file:20220907092353W003842278Xtqvke_archiveOnly_PG.xml
+2022-09-09 11:18:31,543 [INFO] - process file:20220907092403W003842278HMF9kZ_archiveOnly_PG.pdf
+2022-09-09 11:18:32,344 [INFO] - process file:20220907092403W003842278HMF9kZ_archiveOnly_PG.xml
+2022-09-09 11:18:32,702 [INFO] - process file:20220907092413W003842278r2R0pC_archiveOnly_PG.pdf
+2022-09-09 11:18:33,372 [INFO] - process file:20220907092413W003842278r2R0pC_archiveOnly_PG.xml
+2022-09-09 11:18:33,738 [INFO] - process file:20220907092414W003711053BaLS9c_printArchive_PG.pdf
+2022-09-09 11:18:35,961 [INFO] - process file:20220907092414W003711053BaLS9c_printArchive_PG.xml
+2022-09-09 11:18:36,552 [INFO] - process file:20220907092423W003842278pXiM1V_printArchive_PG.pdf
+2022-09-09 11:18:37,771 [INFO] - process file:20220907092423W003842278pXiM1V_printArchive_PG.xml
+2022-09-09 11:18:38,415 [INFO] - process file:20220907092443L003842104Zyu5dI_archiveOnly_PG.pdf
+2022-09-09 11:18:39,051 [INFO] - process file:20220907092443L003842104Zyu5dI_archiveOnly_PG.xml
+2022-09-09 11:18:39,456 [INFO] - process file:20220907092633W003842272kTIuud_printArchive_PG.pdf
+2022-09-09 11:18:41,671 [INFO] - process file:20220907092633W003842272kTIuud_printArchive_PG.xml
+2022-09-09 11:18:42,271 [INFO] - process file:20220907092643W003842272fc8XO1_printArchive_PG.pdf
+2022-09-09 11:18:50,149 [INFO] - process file:20220907092643W003842272fc8XO1_printArchive_PG.xml
+2022-09-09 11:18:50,732 [INFO] - process file:20220907092653W003842272wtnkuf_printArchive_PG.pdf
+2022-09-09 11:18:52,055 [INFO] - process file:20220907092653W003842272wtnkuf_printArchive_PG.xml
+2022-09-09 11:18:52,852 [INFO] - process file:20220907092723W003842292Qj3Xx4_archiveOnly_PG.pdf
+2022-09-09 11:18:53,496 [INFO] - process file:20220907092723W003842292Qj3Xx4_archiveOnly_PG.xml
+2022-09-09 11:18:53,882 [INFO] - process file:20220907092733W003842292G6maWb_archiveOnly_PG.pdf
+2022-09-09 11:18:54,655 [INFO] - process file:20220907092733W003842292G6maWb_archiveOnly_PG.xml
+2022-09-09 11:18:55,058 [INFO] - process file:20220907092734W003842276M0h7nL_archiveOnly_PG.pdf
+2022-09-09 11:18:55,752 [INFO] - process file:20220907092734W003842276M0h7nL_archiveOnly_PG.xml
+2022-09-09 11:18:56,127 [INFO] - process file:20220907092735W003841345wVsp9B_archiveOnly_PG.pdf
+2022-09-09 11:18:57,051 [INFO] - process file:20220907092735W003841345wVsp9B_archiveOnly_PG.xml
+2022-09-09 11:18:57,368 [INFO] - process file:20220907092743W003842292XnmIvm_archiveOnly_PG.pdf
+2022-09-09 11:18:58,107 [INFO] - process file:20220907092743W003842292XnmIvm_archiveOnly_PG.xml
+2022-09-09 11:18:58,568 [INFO] - process file:20220907092744W0038422762GAztG_archiveOnly_PG.pdf
+2022-09-09 11:18:59,233 [INFO] - process file:20220907092744W0038422762GAztG_archiveOnly_PG.xml
+2022-09-09 11:18:59,589 [INFO] - process file:20220907092745W003841345TpPZym_archiveOnly_PG.pdf
+2022-09-09 11:19:00,452 [INFO] - process file:20220907092745W003841345TpPZym_archiveOnly_PG.xml
+2022-09-09 11:19:00,808 [INFO] - process file:20220907092748W0033738914rEAd8_archiveOnly_PG.pdf
+2022-09-09 11:19:01,410 [INFO] - process file:20220907092748W0033738914rEAd8_archiveOnly_PG.xml
+2022-09-09 11:19:01,820 [INFO] - process file:20220907092753W0038422925jajEN_printArchive_PG.pdf
+2022-09-09 11:19:03,488 [INFO] - process file:20220907092753W0038422925jajEN_printArchive_PG.xml
+2022-09-09 11:19:04,514 [INFO] - process file:20220907092754W003842276ObPW84_archiveOnly_PG.pdf
+2022-09-09 11:19:05,131 [INFO] - process file:20220907092754W003842276ObPW84_archiveOnly_PG.xml
+2022-09-09 11:19:05,495 [INFO] - process file:20220907092755W00384134518h559_archiveOnly_PG.pdf
+2022-09-09 11:19:06,310 [INFO] - process file:20220907092755W00384134518h559_archiveOnly_PG.xml
+2022-09-09 11:19:07,056 [INFO] - process file:20220907092756W0038422837gYFW7_archiveOnly_PG.pdf
+2022-09-09 11:19:07,673 [INFO] - process file:20220907092756W0038422837gYFW7_archiveOnly_PG.xml
+2022-09-09 11:19:08,056 [INFO] - process file:20220907092757W003711063cbcNlx_printArchive_PG.pdf
+2022-09-09 11:19:10,249 [INFO] - process file:20220907092757W003711063cbcNlx_printArchive_PG.xml
+2022-09-09 11:19:11,078 [INFO] - process file:20220907092803W003841345WxOl16_archiveOnly_PG.pdf
+2022-09-09 11:19:12,028 [INFO] - process file:20220907092803W003841345WxOl16_archiveOnly_PG.xml
+2022-09-09 11:19:12,427 [INFO] - process file:20220907092804W003842283OrhXo4_printArchive_PG.pdf
+2022-09-09 11:19:16,489 [INFO] - process file:20220907092804W003842283OrhXo4_printArchive_PG.xml
+2022-09-09 11:19:17,419 [INFO] - process file:20220907092813W003841345hot6HG_printArchive_PG.pdf
+2022-09-09 11:19:19,932 [INFO] - process file:20220907092813W003841345hot6HG_printArchive_PG.xml
+2022-09-09 11:19:20,831 [INFO] - process file:20220907092814L0035915717mTtmZ_archiveOnly_PG.pdf
+2022-09-09 11:19:21,969 [INFO] - process file:20220907092814L0035915717mTtmZ_archiveOnly_PG.xml
+2022-09-09 11:19:22,389 [INFO] - process file:20220907092814W003842275Wk7nu8_printArchive_PG.pdf
+2022-09-09 11:19:24,292 [INFO] - process file:20220907092814W003842275Wk7nu8_printArchive_PG.xml
+2022-09-09 11:19:25,217 [INFO] - process file:20220907092823W003841345YX6kdv_archiveOnly_PG.pdf
+2022-09-09 11:19:25,899 [INFO] - process file:20220907092823W003841345YX6kdv_archiveOnly_PG.xml
+2022-09-09 11:19:26,469 [INFO] - process file:20220907092834W003842282olCTT9_archiveOnly_PG.pdf
+2022-09-09 11:19:27,132 [INFO] - process file:20220907092834W003842282olCTT9_archiveOnly_PG.xml
+2022-09-09 11:19:27,832 [INFO] - process file:20220907092835W003379171tl7Tn7_archiveOnly_PG.pdf
+2022-09-09 11:19:28,458 [INFO] - process file:20220907092835W003379171tl7Tn7_archiveOnly_PG.xml
+2022-09-09 11:19:29,053 [INFO] - process file:20220907092843W003842282jtyzDT_printArchive_PG.pdf
+2022-09-09 11:19:30,805 [INFO] - process file:20220907092843W003842282jtyzDT_printArchive_PG.xml
+2022-09-09 11:19:31,706 [INFO] - process file:20220907092914W003842274wp04FF_archiveOnly_PG.pdf
+2022-09-09 11:19:32,514 [INFO] - process file:20220907092914W003842274wp04FF_archiveOnly_PG.xml
+2022-09-09 11:19:32,933 [INFO] - process file:20220907092923W003842274PXMQ9H_printArchive_PG.pdf
+2022-09-09 11:19:38,349 [INFO] - process file:20220907092923W003842274PXMQ9H_printArchive_PG.xml
+2022-09-09 11:19:39,774 [INFO] - process file:20220907092924W003842273DQAAP1_printArchive_PG.pdf
+2022-09-09 11:19:41,680 [INFO] - process file:20220907092924W003842273DQAAP1_printArchive_PG.xml
+2022-09-09 11:19:42,831 [INFO] - process file:20220907092934W003842015sPH3Oh_archiveOnly_PG.pdf
+2022-09-09 11:19:44,023 [INFO] - process file:20220907092934W003842015sPH3Oh_archiveOnly_PG.xml
+2022-09-09 11:19:44,800 [INFO] - process file:20220907092943W003842015K3US3s_archiveOnly_PG.pdf
+2022-09-09 11:19:46,031 [INFO] - process file:20220907092943W003842015K3US3s_archiveOnly_PG.xml
+2022-09-09 11:19:46,532 [INFO] - process file:20220907092944W003842281Ms4Bs2_archiveOnly_PG.pdf
+2022-09-09 11:19:47,257 [INFO] - process file:20220907092944W003842281Ms4Bs2_archiveOnly_PG.xml
+2022-09-09 11:19:47,867 [INFO] - process file:20220907092953W003842015whWt3w_archiveOnly_PG.pdf
+2022-09-09 11:19:48,783 [INFO] - process file:20220907092953W003842015whWt3w_archiveOnly_PG.xml
+2022-09-09 11:19:49,297 [INFO] - process file:20220907092954W003842281E8WYgB_archiveOnly_PG.pdf
+2022-09-09 11:19:49,930 [INFO] - process file:20220907092954W003842281E8WYgB_archiveOnly_PG.xml
+2022-09-09 11:19:50,333 [INFO] - process file:20220907092955W003711080w21t2D_printArchive_PG.pdf
+2022-09-09 11:19:52,655 [INFO] - process file:20220907092955W003711080w21t2D_printArchive_PG.xml
+2022-09-09 11:19:53,305 [INFO] - process file:20220907093001W003827160fRMZhc_printArchive_PG.pdf
+2022-09-09 11:19:54,857 [INFO] - process file:20220907093001W003827160fRMZhc_printArchive_PG.xml
+2022-09-09 11:19:55,591 [INFO] - process file:20220907093003W0038420153rXAHA_archiveOnly_PG.pdf
+2022-09-09 11:19:56,563 [INFO] - process file:20220907093003W0038420153rXAHA_archiveOnly_PG.xml
+2022-09-09 11:19:57,142 [INFO] - process file:20220907093004W003842281V1rkrk_printArchive_PG.pdf
+2022-09-09 11:19:59,017 [INFO] - process file:20220907093004W003842281V1rkrk_printArchive_PG.xml
+2022-09-09 11:19:59,749 [INFO] - process file:20220907093005W003842286AJJKTx_printArchive_PG.pdf
+2022-09-09 11:20:01,366 [INFO] - process file:20220907093005W003842286AJJKTx_printArchive_PG.xml
+2022-09-09 11:20:02,249 [INFO] - process file:20220907093013W003842015fZDYB4_printArchive_PG.pdf
+2022-09-09 11:20:06,150 [INFO] - process file:20220907093013W003842015fZDYB4_printArchive_PG.xml
+2022-09-09 11:20:07,018 [INFO] - process file:20220907093014W003842281xozbrs_printArchive_PG.pdf
+2022-09-09 11:20:08,490 [INFO] - process file:20220907093014W003842281xozbrs_printArchive_PG.xml
+2022-09-09 11:20:09,479 [INFO] - process file:20220907093023W003842015KamGcx_archiveOnly_PG.pdf
+2022-09-09 11:20:10,121 [INFO] - process file:20220907093023W003842015KamGcx_archiveOnly_PG.xml
+2022-09-09 11:20:10,597 [INFO] - process file:20220907093024W003842293osen9n_archiveOnly_PG.pdf
+2022-09-09 11:20:11,499 [INFO] - process file:20220907093024W003842293osen9n_archiveOnly_PG.xml
+2022-09-09 11:20:11,952 [INFO] - process file:20220907093033W003842293wdjqrj_archiveOnly_PG.pdf
+2022-09-09 11:20:12,731 [INFO] - process file:20220907093033W003842293wdjqrj_archiveOnly_PG.xml
+2022-09-09 11:20:13,165 [INFO] - process file:20220907093043W003842293y7PpFi_archiveOnly_PG.pdf
+2022-09-09 11:20:13,932 [INFO] - process file:20220907093043W003842293y7PpFi_archiveOnly_PG.xml
+2022-09-09 11:20:14,351 [INFO] - process file:20220907093053W003842293qjgeQe_archiveOnly_PG.pdf
+2022-09-09 11:20:15,052 [INFO] - process file:20220907093053W003842293qjgeQe_archiveOnly_PG.xml
+2022-09-09 11:20:15,388 [INFO] - process file:20220907093054W003842291u9Yucw_archiveOnly_PG.pdf
+2022-09-09 11:20:16,207 [INFO] - process file:20220907093054W003842291u9Yucw_archiveOnly_PG.xml
+2022-09-09 11:20:16,573 [INFO] - process file:20220907093102W003819260yjF57a_archiveOnly_PG.pdf
+2022-09-09 11:20:17,739 [INFO] - process file:20220907093102W003819260yjF57a_archiveOnly_PG.xml
+2022-09-09 11:20:18,085 [INFO] - process file:20220907093103W003842293xykXqS_printArchive_PG.pdf
+2022-09-09 11:20:19,338 [INFO] - process file:20220907093103W003842293xykXqS_printArchive_PG.xml
+2022-09-09 11:20:20,230 [INFO] - process file:20220907093104W003842291XcCIQr_archiveOnly_PG.pdf
+2022-09-09 11:20:20,787 [INFO] - process file:20220907093104W003842291XcCIQr_archiveOnly_PG.xml
+2022-09-09 11:20:21,377 [INFO] - process file:20220907093112W003667886nF6lzF_archiveOnly_PG.pdf
+2022-09-09 11:20:22,590 [INFO] - process file:20220907093112W003667886nF6lzF_archiveOnly_PG.xml
+2022-09-09 11:20:22,949 [INFO] - process file:20220907093113W0038422911SWbzz_printArchive_PG.pdf
+2022-09-09 11:20:28,332 [INFO] - process file:20220907093113W0038422911SWbzz_printArchive_PG.xml
+2022-09-09 11:20:29,071 [INFO] - process file:20220907093122W003367323IAIdXx_archiveOnly_PG.pdf
+2022-09-09 11:20:29,840 [INFO] - process file:20220907093122W003367323IAIdXx_archiveOnly_PG.xml
+2022-09-09 11:20:30,554 [INFO] - process file:20220907093153W003842290uNQwMy_archiveOnly_PG.pdf
+2022-09-09 11:20:32,414 [INFO] - process file:20220907093153W003842290uNQwMy_archiveOnly_PG.xml
+2022-09-09 11:20:32,933 [INFO] - process file:20220907093203W003842290wjc7mo_printArchive_PG.pdf
+2022-09-09 11:20:37,422 [INFO] - process file:20220907093203W003842290wjc7mo_printArchive_PG.xml
+2022-09-09 11:20:38,388 [INFO] - process file:20220907093213W003842290FTjKMy_archiveOnly_PG.pdf
+2022-09-09 11:20:39,231 [INFO] - process file:20220907093213W003842290FTjKMy_archiveOnly_PG.xml
+2022-09-09 11:20:39,611 [INFO] - process file:20220907093248W003379597b659u0_archiveOnly_PG.pdf
+2022-09-09 11:20:40,289 [INFO] - process file:20220907093248W003379597b659u0_archiveOnly_PG.xml
+2022-09-09 11:20:40,754 [INFO] - process file:20220907093346W003803679OQtcMS_archiveOnly_PG.pdf
+2022-09-09 11:20:41,814 [INFO] - process file:20220907093346W003803679OQtcMS_archiveOnly_PG.xml
+2022-09-09 11:20:42,372 [INFO] - process file:20220907093424W003586654JMW1AR_archiveOnly_PG.pdf
+2022-09-09 11:20:43,854 [INFO] - process file:20220907093424W003586654JMW1AR_archiveOnly_PG.xml
+2022-09-09 11:20:44,282 [INFO] - process file:20220907093438W002775976qdGBu2_archiveOnly_PG.pdf
+2022-09-09 11:20:45,114 [INFO] - process file:20220907093438W002775976qdGBu2_archiveOnly_PG.xml
+2022-09-09 11:20:45,640 [INFO] - process file:20220907093458W003840624YnCzpQ_printArchive_PG.pdf
+2022-09-09 11:20:47,216 [INFO] - process file:20220907093458W003840624YnCzpQ_printArchive_PG.xml
+2022-09-09 11:20:48,086 [INFO] - process file:20220907093503L003842226Hj3ZK3_printArchive_PG.pdf
+2022-09-09 11:20:49,364 [INFO] - process file:20220907093503L003842226Hj3ZK3_printArchive_PG.xml
+2022-09-09 11:20:50,012 [INFO] - process file:20220907093504W003841718sP1XVD_printArchive_PG.pdf
+2022-09-09 11:20:51,870 [INFO] - process file:20220907093504W003841718sP1XVD_printArchive_PG.xml
+2022-09-09 11:20:52,589 [INFO] - process file:20220907093528W003670598mBId18_archiveOnly_PG.pdf
+2022-09-09 11:20:53,212 [INFO] - process file:20220907093528W003670598mBId18_archiveOnly_PG.xml
+2022-09-09 11:20:53,628 [INFO] - process file:20220907093550W003819260Fkbd5B_archiveOnly_PG.pdf
+2022-09-09 11:20:54,805 [INFO] - process file:20220907093550W003819260Fkbd5B_archiveOnly_PG.xml
+2022-09-09 11:20:55,354 [INFO] - process file:20220907093613W003838253rkLYK8_printArchive_PG_CC_1.pdf
+2022-09-09 11:20:57,012 [INFO] - process file:20220907093613W003838253rkLYK8_printArchive_PG_CC_1.xml
+2022-09-09 11:20:57,765 [INFO] - process file:20220907093614W002775976Itcrpa_archiveOnly_PG.pdf
+2022-09-09 11:20:58,470 [INFO] - process file:20220907093614W002775976Itcrpa_archiveOnly_PG.xml
+2022-09-09 11:20:58,930 [INFO] - process file:20220907093625W003601599r24QB9_archiveOnly_PG.pdf
+2022-09-09 11:20:59,631 [INFO] - process file:20220907093625W003601599r24QB9_archiveOnly_PG.xml
+2022-09-09 11:21:00,171 [INFO] - process file:20220907093634W003842166rpdoH0_archiveOnly_PG.pdf
+2022-09-09 11:21:01,047 [INFO] - process file:20220907093634W003842166rpdoH0_archiveOnly_PG.xml
+2022-09-09 11:21:01,423 [INFO] - process file:20220907093634W0038422997qD7Sm_printArchive_PG.pdf
+2022-09-09 11:21:02,734 [INFO] - process file:20220907093634W0038422997qD7Sm_printArchive_PG.xml
+2022-09-09 11:21:03,345 [INFO] - process file:20220907093636W003821916VuBQmU_printArchive_PG.pdf
+2022-09-09 11:21:05,279 [INFO] - process file:20220907093636W003821916VuBQmU_printArchive_PG.xml
+2022-09-09 11:21:06,111 [INFO] - process file:20220907093644W003842166zj7vHS_archiveOnly_PG.pdf
+2022-09-09 11:21:06,831 [INFO] - process file:20220907093644W003842166zj7vHS_archiveOnly_PG.xml
+2022-09-09 11:21:07,248 [INFO] - process file:20220907093653W003842166NINXze_archiveOnly_PG.pdf
+2022-09-09 11:21:08,081 [INFO] - process file:20220907093653W003842166NINXze_archiveOnly_PG.xml
+2022-09-09 11:21:08,571 [INFO] - process file:20220907093656W003422815qIzB1J_archiveOnly_PG.pdf
+2022-09-09 11:21:09,259 [INFO] - process file:20220907093656W003422815qIzB1J_archiveOnly_PG.xml
+2022-09-09 11:21:09,736 [INFO] - process file:20220907093703W0038421668ndyHL_printArchive_PG.pdf
+2022-09-09 11:21:11,295 [INFO] - process file:20220907093703W0038421668ndyHL_printArchive_PG.xml
+2022-09-09 11:21:12,447 [INFO] - process file:20220907093714L003841791XOZ0s9_archiveOnly_PG.pdf
+2022-09-09 11:21:13,530 [INFO] - process file:20220907093714L003841791XOZ0s9_archiveOnly_PG.xml
+2022-09-09 11:21:14,211 [INFO] - process file:20220907093714W003842166cn4MTw_printArchive_PG.pdf
+2022-09-09 11:21:15,508 [INFO] - process file:20220907093714W003842166cn4MTw_printArchive_PG.xml
+2022-09-09 11:21:16,251 [INFO] - process file:20220907093715W003841780Nu9VKd_archiveOnly_PG.pdf
+2022-09-09 11:21:17,013 [INFO] - process file:20220907093715W003841780Nu9VKd_archiveOnly_PG.xml
+2022-09-09 11:21:17,674 [INFO] - process file:20220907093723L0038417916FLNWQ_archiveOnly_PG.pdf
+2022-09-09 11:21:18,371 [INFO] - process file:20220907093723L0038417916FLNWQ_archiveOnly_PG.xml
+2022-09-09 11:21:18,911 [INFO] - process file:20220907093724W003841780HjYqju_printArchive_PG.pdf
+2022-09-09 11:21:20,295 [INFO] - process file:20220907093724W003841780HjYqju_printArchive_PG.xml
+2022-09-09 11:21:20,964 [INFO] - process file:20220907093733L003841791u8ySkN_archiveOnly_PG.pdf
+2022-09-09 11:21:21,630 [INFO] - process file:20220907093733L003841791u8ySkN_archiveOnly_PG.xml
+2022-09-09 11:21:22,231 [INFO] - process file:20220907093734W003841780oUoWBN_printArchive_PG.pdf
+2022-09-09 11:21:23,475 [INFO] - process file:20220907093734W003841780oUoWBN_printArchive_PG.xml
+2022-09-09 11:21:24,408 [INFO] - process file:20220907093743L003841791MDaOCy_archiveOnly_PG.pdf
+2022-09-09 11:21:25,131 [INFO] - process file:20220907093743L003841791MDaOCy_archiveOnly_PG.xml
+2022-09-09 11:21:25,570 [INFO] - process file:20220907093753L003841791riT59Z_printArchive_PG.pdf
+2022-09-09 11:21:31,578 [INFO] - process file:20220907093753L003841791riT59Z_printArchive_PG.xml
+2022-09-09 11:21:32,334 [INFO] - process file:20220907093755W003823921DKFEUn_printArchive_PG.pdf
+2022-09-09 11:21:34,361 [INFO] - process file:20220907093755W003823921DKFEUn_printArchive_PG.xml
+2022-09-09 11:21:35,022 [INFO] - process file:20220907093923W002682935tP8NxN_archiveOnly_PG.pdf
+2022-09-09 11:21:37,030 [INFO] - process file:20220907093923W002682935tP8NxN_archiveOnly_PG.xml
+2022-09-09 11:21:37,412 [INFO] - process file:20220907093923W003841915Zv6caD_printArchive_PG.pdf
+2022-09-09 11:21:39,488 [INFO] - process file:20220907093923W003841915Zv6caD_printArchive_PG.xml
+2022-09-09 11:21:40,113 [INFO] - process file:20220907093943W003842300FBHgfN_printArchive_PG.pdf
+2022-09-09 11:21:41,477 [INFO] - process file:20220907093943W003842300FBHgfN_printArchive_PG.xml
+2022-09-09 11:21:42,496 [INFO] - process file:20220907093944L003769083Hl137r_archiveOnly_PG.pdf
+2022-09-09 11:21:43,213 [INFO] - process file:20220907093944L003769083Hl137r_archiveOnly_PG.xml
+2022-09-09 11:21:43,689 [INFO] - process file:20220907093954W002231623k6jm3C_printArchive_PG_CC_2.pdf
+2022-09-09 11:21:48,087 [INFO] - process file:20220907093954W002231623k6jm3C_printArchive_PG_CC_2.xml
+2022-09-09 11:21:49,004 [INFO] - process file:20220907094002W899813823yL5inF_printArchive_SelfAddressed_CC_1.pdf
+2022-09-09 11:21:50,487 [INFO] - process file:20220907094002W899813823yL5inF_printArchive_SelfAddressed_CC_1.xml
+2022-09-09 11:21:51,329 [INFO] - process file:20220907094010W003707544xL3Ukz_archiveOnly_PG.pdf
+2022-09-09 11:21:52,198 [INFO] - process file:20220907094010W003707544xL3Ukz_archiveOnly_PG.xml
+2022-09-09 11:21:52,646 [INFO] - process file:20220907094030W0036678868FZByK_archiveOnly_PG.pdf
+2022-09-09 11:21:53,797 [INFO] - process file:20220907094030W0036678868FZByK_archiveOnly_PG.xml
+2022-09-09 11:21:54,208 [INFO] - process file:20220907094106W002682935u6XmXL_archiveOnly_PG.pdf
+2022-09-09 11:21:54,984 [INFO] - process file:20220907094106W002682935u6XmXL_archiveOnly_PG.xml
+2022-09-09 11:21:55,353 [INFO] - process file:20220907094233L0038417761vI7pB_archiveOnly_PG.pdf
+2022-09-09 11:21:56,130 [INFO] - process file:20220907094233L0038417761vI7pB_archiveOnly_PG.xml
+2022-09-09 11:21:56,536 [INFO] - process file:20220907094234W003842303FY1pXQ_printArchive_PG.pdf
+2022-09-09 11:21:58,618 [INFO] - process file:20220907094234W003842303FY1pXQ_printArchive_PG.xml
+2022-09-09 11:21:59,245 [INFO] - process file:20220907094243L003841776CFwDP4_archiveOnly_PG.pdf
+2022-09-09 11:22:00,378 [INFO] - process file:20220907094243L003841776CFwDP4_archiveOnly_PG.xml
+2022-09-09 11:22:01,110 [INFO] - process file:20220907094244W003842303IOtXC7_printArchive_PG.pdf
+2022-09-09 11:22:02,814 [INFO] - process file:20220907094244W003842303IOtXC7_printArchive_PG.xml
+2022-09-09 11:22:03,810 [INFO] - process file:20220907094254L0038417764Bg91q_archiveOnly_PG.pdf
+2022-09-09 11:22:04,447 [INFO] - process file:20220907094254L0038417764Bg91q_archiveOnly_PG.xml
+2022-09-09 11:22:04,995 [INFO] - process file:20220907094254W0038423084E7Rb1_printArchive_PG.pdf
+2022-09-09 11:22:07,337 [INFO] - process file:20220907094254W0038423084E7Rb1_printArchive_PG.xml
+2022-09-09 11:22:08,180 [INFO] - process file:20220907094317W003819260IwU5dg_archiveOnly_PG.pdf
+2022-09-09 11:22:09,138 [INFO] - process file:20220907094317W003819260IwU5dg_archiveOnly_PG.xml
+2022-09-09 11:22:09,717 [INFO] - process file:20220907094320W003840176HDdz3K_printArchive_PG.pdf
+2022-09-09 11:22:13,029 [INFO] - process file:20220907094320W003840176HDdz3K_printArchive_PG.xml
+2022-09-09 11:22:14,126 [INFO] - process file:20220907094327L003841776ctRFbP_archiveOnly_PG.pdf
+2022-09-09 11:22:14,851 [INFO] - process file:20220907094327L003841776ctRFbP_archiveOnly_PG.xml
+2022-09-09 11:22:15,369 [INFO] - process file:20220907094328L0038417769yyDiH_printArchive_PG.pdf
+2022-09-09 11:22:16,568 [INFO] - process file:20220907094328L0038417769yyDiH_printArchive_PG.xml
+2022-09-09 11:22:17,576 [INFO] - process file:20220907103707W003826405CCddxk_printArchive_SelfAddressed.pdf
+2022-09-09 11:22:19,010 [INFO] - process file:20220907103707W003826405CCddxk_printArchive_SelfAddressed.xml
+2022-09-09 11:22:19,752 [INFO] - process file:20220907115116W003842470vCCUj8_archiveOnly_PG.pdf
+2022-09-09 11:22:20,452 [INFO] - process file:20220907115116W003842470vCCUj8_archiveOnly_PG.xml
+2022-09-09 11:22:20,868 [INFO] - process file:20220907182438W003838511KlCCh2_printArchive_PG.pdf
+2022-09-09 11:22:25,562 [INFO] - process file:20220907182438W003838511KlCCh2_printArchive_PG.xml
+2022-09-09 11:22:41,259 [INFO] - banner file is:Banner_1.pdf
+2022-09-09 11:22:51,995 [INFO] - process file for pcl is:0033684921Th5xN_printArchive_PG.pdf
+2022-09-09 11:22:51,995 [INFO] - process file for pcl is:0033684925o1IJi_printArchive_PG.pdf
+2022-09-09 11:22:51,997 [INFO] - process file for pcl is:0037314944CBgJp_printArchive_PG.pdf
+2022-09-09 11:22:51,997 [INFO] - process file for pcl is:003805302IHcgqo_printArchive_PG_CC_1_Primary.pdf
+2022-09-09 11:22:51,997 [INFO] - process file for pcl is:003827160fRMZhc_printArchive_PG.pdf
+2022-09-09 11:22:51,997 [INFO] - process file for pcl is:0038377243k1Z1K_printArchive_PG.pdf
+2022-09-09 11:22:51,997 [INFO] - process file for pcl is:003837724GcgdI0_printArchive_PG.pdf
+2022-09-09 11:22:51,997 [INFO] - process file for pcl is:003837724fRqgpo_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003838253rkLYK8_printArchive_PG_CC_1_Primary.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003841185ki9a8X_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003841185mINFbs_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:0038417769yyDiH_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003841791riT59Z_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:0038418611q6Ofp_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003841971t0W37e_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003842065d9OhxQ_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003842166cn4MTw_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003842226Hj3ZK3_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:0038422604nYOtC_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003842260gtsFCD_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003842262R3R9Qk_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003842263q08teh_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003842264rn1I5D_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003842272kTIuud_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003842272wtnkuf_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003842278pXiM1V_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003842281xozbrs_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003842293xykXqS_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003842300FBHgfN_printArchive_PG.pdf
+2022-09-09 11:22:51,998 [INFO] - process file for pcl is:003842303FY1pXQ_printArchive_PG.pdf
+2022-09-09 11:23:57,406 [INFO] - banner file is:Banner_2.pdf
+2022-09-09 11:24:02,101 [INFO] - process file for pcl is:0033684921Th5xN_printArchive_PG.pdf
+2022-09-09 11:24:02,101 [INFO] - process file for pcl is:0033684925o1IJi_printArchive_PG.pdf
+2022-09-09 11:24:02,101 [INFO] - process file for pcl is:0037314944CBgJp_printArchive_PG.pdf
+2022-09-09 11:24:02,102 [INFO] - process file for pcl is:003805302IHcgqo_printArchive_PG_CC_1_1.pdf
+2022-09-09 11:24:02,102 [INFO] - process file for pcl is:003805302IHcgqo_printArchive_PG_CC_1_Primary.pdf
+2022-09-09 11:24:02,102 [INFO] - process file for pcl is:003821916VuBQmU_printArchive_PG.pdf
+2022-09-09 11:24:02,102 [INFO] - process file for pcl is:003823921DKFEUn_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003827160fRMZhc_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:0038377243k1Z1K_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003837724GcgdI0_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003837724fRqgpo_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003838253rkLYK8_printArchive_PG_CC_1_1.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003838253rkLYK8_printArchive_PG_CC_1_Primary.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003840176HDdz3K_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003840624YnCzpQ_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003841132hKMx5H_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003841185ki9a8X_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003841185mINFbs_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003841729Ok2Tvo_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:0038417769yyDiH_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003841780HjYqju_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003841791riT59Z_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:0038418611q6Ofp_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003841915Zv6caD_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003841971t0W37e_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003842065d9OhxQ_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003842166cn4MTw_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003842226Hj3ZK3_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:0038422604nYOtC_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003842260gtsFCD_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003842262R3R9Qk_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003842263q08teh_printArchive_PG.pdf
+2022-09-09 11:24:02,103 [INFO] - process file for pcl is:003842264rn1I5D_printArchive_PG.pdf
+2022-09-09 11:24:02,111 [INFO] - process file for pcl is:003842272kTIuud_printArchive_PG.pdf
+2022-09-09 11:24:02,111 [INFO] - process file for pcl is:003842272wtnkuf_printArchive_PG.pdf
+2022-09-09 11:24:02,111 [INFO] - process file for pcl is:003842278pXiM1V_printArchive_PG.pdf
+2022-09-09 11:24:02,111 [INFO] - process file for pcl is:003842281xozbrs_printArchive_PG.pdf
+2022-09-09 11:24:02,112 [INFO] - process file for pcl is:003842293xykXqS_printArchive_PG.pdf
+2022-09-09 11:24:02,112 [INFO] - process file for pcl is:003842300FBHgfN_printArchive_PG.pdf
+2022-09-09 11:24:02,112 [INFO] - process file for pcl is:003842303FY1pXQ_printArchive_PG.pdf
+2022-09-09 11:24:10,542 [INFO] - banner file is:Banner_3.pdf
+2022-09-09 11:24:17,383 [INFO] - process file for pcl is:002231623k6jm3C_printArchive_PG_CC_2_Primary.pdf
+2022-09-09 11:24:17,383 [INFO] - process file for pcl is:0033684921Th5xN_printArchive_PG.pdf
+2022-09-09 11:24:17,387 [INFO] - process file for pcl is:0033684925o1IJi_printArchive_PG.pdf
+2022-09-09 11:24:17,387 [INFO] - process file for pcl is:0037314944CBgJp_printArchive_PG.pdf
+2022-09-09 11:24:17,387 [INFO] - process file for pcl is:003763112sYUS4f_printArchive_PG.pdf
+2022-09-09 11:24:17,387 [INFO] - process file for pcl is:003805302IHcgqo_printArchive_PG_CC_1_1.pdf
+2022-09-09 11:24:17,387 [INFO] - process file for pcl is:003805302IHcgqo_printArchive_PG_CC_1_Primary.pdf
+2022-09-09 11:24:17,388 [INFO] - process file for pcl is:003821916VuBQmU_printArchive_PG.pdf
+2022-09-09 11:24:17,388 [INFO] - process file for pcl is:003823921DKFEUn_printArchive_PG.pdf
+2022-09-09 11:24:17,388 [INFO] - process file for pcl is:003827160fRMZhc_printArchive_PG.pdf
+2022-09-09 11:24:17,388 [INFO] - process file for pcl is:0038377243k1Z1K_printArchive_PG.pdf
+2022-09-09 11:24:17,388 [INFO] - process file for pcl is:003837724GcgdI0_printArchive_PG.pdf
+2022-09-09 11:24:17,388 [INFO] - process file for pcl is:003837724fRqgpo_printArchive_PG.pdf
+2022-09-09 11:24:17,388 [INFO] - process file for pcl is:003838253rkLYK8_printArchive_PG_CC_1_1.pdf
+2022-09-09 11:24:17,388 [INFO] - process file for pcl is:003838253rkLYK8_printArchive_PG_CC_1_Primary.pdf
+2022-09-09 11:24:17,391 [INFO] - process file for pcl is:003838511KlCCh2_printArchive_PG.pdf
+2022-09-09 11:24:17,391 [INFO] - process file for pcl is:003840176HDdz3K_printArchive_PG.pdf
+2022-09-09 11:24:17,391 [INFO] - process file for pcl is:003840624YnCzpQ_printArchive_PG.pdf
+2022-09-09 11:24:17,391 [INFO] - process file for pcl is:003841132hKMx5H_printArchive_PG.pdf
+2022-09-09 11:24:17,391 [INFO] - process file for pcl is:003841185ki9a8X_printArchive_PG.pdf
+2022-09-09 11:24:17,391 [INFO] - process file for pcl is:003841185mINFbs_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:0038416987UYqKd_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003841729Ok2Tvo_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:0038417769yyDiH_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003841780HjYqju_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003841780oUoWBN_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003841791riT59Z_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:0038418611q6Ofp_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003841915Zv6caD_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003841971t0W37e_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003842065d9OhxQ_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:0038421668ndyHL_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003842166cn4MTw_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003842226Hj3ZK3_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:0038422586zoiCX_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:0038422604nYOtC_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003842260gtsFCD_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003842262R3R9Qk_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003842263q08teh_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003842263yO6t7r_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003842264rn1I5D_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003842265gqNDav_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:0038422695PRs7E_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003842272kTIuud_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003842272wtnkuf_printArchive_PG.pdf
+2022-09-09 11:24:17,393 [INFO] - process file for pcl is:003842273DQAAP1_printArchive_PG.pdf
+2022-09-09 11:24:17,401 [INFO] - process file for pcl is:003842275Wk7nu8_printArchive_PG.pdf
+2022-09-09 11:24:17,401 [INFO] - process file for pcl is:003842278pXiM1V_printArchive_PG.pdf
+2022-09-09 11:24:17,401 [INFO] - process file for pcl is:003842281V1rkrk_printArchive_PG.pdf
+2022-09-09 11:24:17,401 [INFO] - process file for pcl is:003842281xozbrs_printArchive_PG.pdf
+2022-09-09 11:24:17,401 [INFO] - process file for pcl is:003842286AJJKTx_printArchive_PG.pdf
+2022-09-09 11:24:17,401 [INFO] - process file for pcl is:0038422925jajEN_printArchive_PG.pdf
+2022-09-09 11:24:17,401 [INFO] - process file for pcl is:003842293xykXqS_printArchive_PG.pdf
+2022-09-09 11:24:17,401 [INFO] - process file for pcl is:0038422997qD7Sm_printArchive_PG.pdf
+2022-09-09 11:24:17,401 [INFO] - process file for pcl is:003842300FBHgfN_printArchive_PG.pdf
+2022-09-09 11:24:17,401 [INFO] - process file for pcl is:003842303FY1pXQ_printArchive_PG.pdf
+2022-09-09 11:24:17,401 [INFO] - process file for pcl is:003842303IOtXC7_printArchive_PG.pdf
+2022-09-09 11:24:29,084 [INFO] - banner file is:Banner_4.pdf
+2022-09-09 11:24:35,476 [INFO] - process file for pcl is:001297175nMozpE_printArchive_SelfAddressed_CC_1_1.pdf
+2022-09-09 11:24:35,478 [INFO] - process file for pcl is:002231623k6jm3C_printArchive_PG_CC_2_1.pdf
+2022-09-09 11:24:35,478 [INFO] - process file for pcl is:002231623k6jm3C_printArchive_PG_CC_2_2.pdf
+2022-09-09 11:24:35,478 [INFO] - process file for pcl is:002231623k6jm3C_printArchive_PG_CC_2_Primary.pdf
+2022-09-09 11:24:35,478 [INFO] - process file for pcl is:0033684921Th5xN_printArchive_PG.pdf
+2022-09-09 11:24:35,478 [INFO] - process file for pcl is:0033684925o1IJi_printArchive_PG.pdf
+2022-09-09 11:24:35,478 [INFO] - process file for pcl is:0037314944CBgJp_printArchive_PG.pdf
+2022-09-09 11:24:35,478 [INFO] - process file for pcl is:003763112sYUS4f_printArchive_PG.pdf
+2022-09-09 11:24:35,479 [INFO] - process file for pcl is:003805302IHcgqo_printArchive_PG_CC_1_1.pdf
+2022-09-09 11:24:35,479 [INFO] - process file for pcl is:003805302IHcgqo_printArchive_PG_CC_1_Primary.pdf
+2022-09-09 11:24:35,479 [INFO] - process file for pcl is:003821916VuBQmU_printArchive_PG.pdf
+2022-09-09 11:24:35,479 [INFO] - process file for pcl is:003823921DKFEUn_printArchive_PG.pdf
+2022-09-09 11:24:35,479 [INFO] - process file for pcl is:003827160fRMZhc_printArchive_PG.pdf
+2022-09-09 11:24:35,479 [INFO] - process file for pcl is:0038377243k1Z1K_printArchive_PG.pdf
+2022-09-09 11:24:35,479 [INFO] - process file for pcl is:003837724GcgdI0_printArchive_PG.pdf
+2022-09-09 11:24:35,479 [INFO] - process file for pcl is:003837724fRqgpo_printArchive_PG.pdf
+2022-09-09 11:24:35,479 [INFO] - process file for pcl is:003838253rkLYK8_printArchive_PG_CC_1_1.pdf
+2022-09-09 11:24:35,479 [INFO] - process file for pcl is:003838253rkLYK8_printArchive_PG_CC_1_Primary.pdf
+2022-09-09 11:24:35,479 [INFO] - process file for pcl is:003838511KlCCh2_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003840176HDdz3K_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003840624YnCzpQ_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003841132hKMx5H_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003841185ki9a8X_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003841185mINFbs_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:0038416987UYqKd_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003841705CsDwPa_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003841718sP1XVD_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003841729Ok2Tvo_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:0038417769yyDiH_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003841780HjYqju_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003841780oUoWBN_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003841791riT59Z_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:0038418611q6Ofp_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003841874xpC8nH_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003841915Zv6caD_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003841971aSPHrY_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003841971t0W37e_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003841997RC9a8m_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842065d9OhxQ_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842159lESF1z_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:0038421668ndyHL_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842166cn4MTw_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842226Hj3ZK3_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:0038422586zoiCX_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:0038422604nYOtC_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842260gtsFCD_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842261Kb00cO_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842262R3R9Qk_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842263q08teh_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842263yO6t7r_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842264rn1I5D_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842265gqNDav_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:0038422695PRs7E_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842272kTIuud_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842272wtnkuf_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842273DQAAP1_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842275Wk7nu8_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842278pXiM1V_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842281V1rkrk_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842281xozbrs_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842286AJJKTx_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:0038422925jajEN_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842293xykXqS_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:0038422997qD7Sm_printArchive_PG.pdf
+2022-09-09 11:24:35,480 [INFO] - process file for pcl is:003842300FBHgfN_printArchive_PG.pdf
+2022-09-09 11:24:35,488 [INFO] - process file for pcl is:003842303FY1pXQ_printArchive_PG.pdf
+2022-09-09 11:24:35,489 [INFO] - process file for pcl is:003842303IOtXC7_printArchive_PG.pdf
+2022-09-09 11:24:35,489 [INFO] - process file for pcl is:0038423084E7Rb1_printArchive_PG.pdf
+2022-09-09 11:24:35,489 [INFO] - process file for pcl is:899813823yL5inF_printArchive_SelfAddressed_CC_1_1.pdf
+2022-09-09 11:24:49,113 [INFO] - banner file is:Banner_5.pdf
+2022-09-09 11:24:51,898 [INFO] - process file for pcl is:001297175nMozpE_printArchive_SelfAddressed_CC_1_1.pdf
+2022-09-09 11:24:51,898 [INFO] - process file for pcl is:002231623k6jm3C_printArchive_PG_CC_2_1.pdf
+2022-09-09 11:24:51,898 [INFO] - process file for pcl is:002231623k6jm3C_printArchive_PG_CC_2_2.pdf
+2022-09-09 11:24:51,904 [INFO] - process file for pcl is:002231623k6jm3C_printArchive_PG_CC_2_Primary.pdf
+2022-09-09 11:24:51,904 [INFO] - process file for pcl is:0033684921Th5xN_printArchive_PG.pdf
+2022-09-09 11:24:51,904 [INFO] - process file for pcl is:0033684925o1IJi_printArchive_PG.pdf
+2022-09-09 11:24:51,904 [INFO] - process file for pcl is:0037314944CBgJp_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003763112sYUS4f_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003805189RESAHA_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003805302IHcgqo_printArchive_PG_CC_1_1.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003805302IHcgqo_printArchive_PG_CC_1_Primary.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003821916VuBQmU_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003823921DKFEUn_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003827160fRMZhc_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:0038377243k1Z1K_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003837724GcgdI0_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003837724fRqgpo_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003838253rkLYK8_printArchive_PG_CC_1_1.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003838253rkLYK8_printArchive_PG_CC_1_Primary.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003838511KlCCh2_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003840176HDdz3K_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003840624YnCzpQ_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003841132hKMx5H_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003841185ki9a8X_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003841185mINFbs_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:0038416987UYqKd_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003841705CsDwPa_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003841718sP1XVD_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003841729Ok2Tvo_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:0038417769yyDiH_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003841780HjYqju_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003841780oUoWBN_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003841791riT59Z_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:0038418611q6Ofp_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003841874xpC8nH_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003841915Zv6caD_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003841971aSPHrY_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003841971t0W37e_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003841997RC9a8m_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003842065d9OhxQ_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003842159lESF1z_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:0038421668ndyHL_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003842166cn4MTw_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003842226Hj3ZK3_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:0038422586zoiCX_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:0038422604nYOtC_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003842260gtsFCD_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003842261Kb00cO_printArchive_PG.pdf
+2022-09-09 11:24:51,905 [INFO] - process file for pcl is:003842262R3R9Qk_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842262oozgG9_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842263q08teh_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842263yO6t7r_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842264rn1I5D_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842265gqNDav_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:0038422695PRs7E_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842270fnieak_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842272kTIuud_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842272wtnkuf_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842273DQAAP1_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842275Wk7nu8_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842278pXiM1V_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842281V1rkrk_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842281xozbrs_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842282jtyzDT_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842286AJJKTx_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:0038422925jajEN_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842293xykXqS_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:0038422997qD7Sm_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842300FBHgfN_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842303FY1pXQ_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:003842303IOtXC7_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:0038423084E7Rb1_printArchive_PG.pdf
+2022-09-09 11:24:51,913 [INFO] - process file for pcl is:899813823yL5inF_printArchive_SelfAddressed_CC_1_1.pdf
+2022-09-09 11:25:07,056 [INFO] - banner file is:Banner_SelfAddressed.pdf
+2022-09-09 11:25:08,940 [INFO] - process file for pcl is:001297175nMozpE_printArchive_SelfAddressed_CC_1_1.pdf
+2022-09-09 11:25:08,941 [INFO] - process file for pcl is:001297175nMozpE_printArchive_SelfAddressed_CC_1_Primary.pdf
+2022-09-09 11:25:08,941 [INFO] - process file for pcl is:002231623k6jm3C_printArchive_PG_CC_2_1.pdf
+2022-09-09 11:25:08,941 [INFO] - process file for pcl is:002231623k6jm3C_printArchive_PG_CC_2_2.pdf
+2022-09-09 11:25:08,941 [INFO] - process file for pcl is:002231623k6jm3C_printArchive_PG_CC_2_Primary.pdf
+2022-09-09 11:25:08,941 [INFO] - process file for pcl is:0033684921Th5xN_printArchive_PG.pdf
+2022-09-09 11:25:08,941 [INFO] - process file for pcl is:0033684925o1IJi_printArchive_PG.pdf
+2022-09-09 11:25:08,941 [INFO] - process file for pcl is:0037314944CBgJp_printArchive_PG.pdf
+2022-09-09 11:25:08,941 [INFO] - process file for pcl is:003763112sYUS4f_printArchive_PG.pdf
+2022-09-09 11:25:08,941 [INFO] - process file for pcl is:003805189RESAHA_printArchive_PG.pdf
+2022-09-09 11:25:08,941 [INFO] - process file for pcl is:003805302IHcgqo_printArchive_PG_CC_1_1.pdf
+2022-09-09 11:25:08,941 [INFO] - process file for pcl is:003805302IHcgqo_printArchive_PG_CC_1_Primary.pdf
+2022-09-09 11:25:08,941 [INFO] - process file for pcl is:003821916VuBQmU_printArchive_PG.pdf
+2022-09-09 11:25:08,941 [INFO] - process file for pcl is:003823921DKFEUn_printArchive_PG.pdf
+2022-09-09 11:25:08,941 [INFO] - process file for pcl is:003826405CCddxk_printArchive_SelfAddressed.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:003827160fRMZhc_printArchive_PG.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:0038377243k1Z1K_printArchive_PG.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:003837724GcgdI0_printArchive_PG.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:003837724fRqgpo_printArchive_PG.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:003838253rkLYK8_printArchive_PG_CC_1_1.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:003838253rkLYK8_printArchive_PG_CC_1_Primary.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:003838511KlCCh2_printArchive_PG.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:003840176HDdz3K_printArchive_PG.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:003840624YnCzpQ_printArchive_PG.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:003841132hKMx5H_printArchive_PG.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:003841185ki9a8X_printArchive_PG.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:003841185mINFbs_printArchive_PG.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:0038416987UYqKd_printArchive_PG.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:003841705CsDwPa_printArchive_PG.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:003841718sP1XVD_printArchive_PG.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:003841729Ok2Tvo_printArchive_PG.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:0038417769yyDiH_printArchive_PG.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:003841780HjYqju_printArchive_PG.pdf
+2022-09-09 11:25:08,942 [INFO] - process file for pcl is:003841780oUoWBN_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:003841791riT59Z_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:0038418611q6Ofp_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:003841874xpC8nH_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:003841915Zv6caD_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:003841971aSPHrY_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:003841971t0W37e_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:003841997RC9a8m_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:003842065d9OhxQ_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:003842159lESF1z_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:0038421668ndyHL_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:003842166cn4MTw_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:003842226Hj3ZK3_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:0038422586zoiCX_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:0038422604nYOtC_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:003842260gtsFCD_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:003842261Kb00cO_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:003842262R3R9Qk_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:003842262oozgG9_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:003842263q08teh_printArchive_PG.pdf
+2022-09-09 11:25:08,943 [INFO] - process file for pcl is:003842263yO6t7r_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:003842264rn1I5D_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:003842265gqNDav_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:0038422695PRs7E_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:003842270fnieak_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:003842272kTIuud_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:003842272wtnkuf_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:003842273DQAAP1_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:003842275Wk7nu8_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:003842278pXiM1V_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:003842281V1rkrk_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:003842281xozbrs_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:003842282jtyzDT_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:003842286AJJKTx_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:0038422925jajEN_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:003842293xykXqS_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:0038422997qD7Sm_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:003842300FBHgfN_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:003842303FY1pXQ_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:003842303IOtXC7_printArchive_PG.pdf
+2022-09-09 11:25:08,944 [INFO] - process file for pcl is:0038423084E7Rb1_printArchive_PG.pdf
+2022-09-09 11:25:08,945 [INFO] - process file for pcl is:899813823yL5inF_printArchive_SelfAddressed_CC_1_1.pdf
+2022-09-09 11:25:08,945 [INFO] - process file for pcl is:899813823yL5inF_printArchive_SelfAddressed_CC_1_Primary.pdf
+2022-09-09 11:25:24,046 [INFO] - banner file is:Banner_MultiPage.pdf
+2022-09-09 11:25:30,053 [INFO] - process file for pcl is:001297175nMozpE_printArchive_SelfAddressed_CC_1_1.pdf
+2022-09-09 11:25:30,053 [INFO] - process file for pcl is:001297175nMozpE_printArchive_SelfAddressed_CC_1_Primary.pdf
+2022-09-09 11:25:30,053 [INFO] - process file for pcl is:002231623k6jm3C_printArchive_PG_CC_2_1.pdf
+2022-09-09 11:25:30,053 [INFO] - process file for pcl is:002231623k6jm3C_printArchive_PG_CC_2_2.pdf
+2022-09-09 11:25:30,053 [INFO] - process file for pcl is:002231623k6jm3C_printArchive_PG_CC_2_Primary.pdf
+2022-09-09 11:25:30,053 [INFO] - process file for pcl is:0033684921Th5xN_printArchive_PG.pdf
+2022-09-09 11:25:30,053 [INFO] - process file for pcl is:0033684925o1IJi_printArchive_PG.pdf
+2022-09-09 11:25:30,053 [INFO] - process file for pcl is:0037314944CBgJp_printArchive_PG.pdf
+2022-09-09 11:25:30,053 [INFO] - process file for pcl is:003763112sYUS4f_printArchive_PG.pdf
+2022-09-09 11:25:30,053 [INFO] - process file for pcl is:003805189RESAHA_printArchive_PG.pdf
+2022-09-09 11:25:30,053 [INFO] - process file for pcl is:003805302IHcgqo_printArchive_PG_CC_1_1.pdf
+2022-09-09 11:25:30,053 [INFO] - process file for pcl is:003805302IHcgqo_printArchive_PG_CC_1_Primary.pdf
+2022-09-09 11:25:30,054 [INFO] - process file for pcl is:003821916VuBQmU_printArchive_PG.pdf
+2022-09-09 11:25:30,054 [INFO] - process file for pcl is:003823921DKFEUn_printArchive_PG.pdf
+2022-09-09 11:25:30,054 [INFO] - process file for pcl is:003826405CCddxk_printArchive_SelfAddressed.pdf
+2022-09-09 11:25:30,054 [INFO] - process file for pcl is:003827160fRMZhc_printArchive_PG.pdf
+2022-09-09 11:25:30,054 [INFO] - process file for pcl is:0038377243k1Z1K_printArchive_PG.pdf
+2022-09-09 11:25:30,054 [INFO] - process file for pcl is:003837724GcgdI0_printArchive_PG.pdf
+2022-09-09 11:25:30,054 [INFO] - process file for pcl is:003837724fRqgpo_printArchive_PG.pdf
+2022-09-09 11:25:30,055 [INFO] - process file for pcl is:003838253rkLYK8_printArchive_PG_CC_1_1.pdf
+2022-09-09 11:25:30,055 [INFO] - process file for pcl is:003838253rkLYK8_printArchive_PG_CC_1_Primary.pdf
+2022-09-09 11:25:30,055 [INFO] - process file for pcl is:003838511KlCCh2_printArchive_PG.pdf
+2022-09-09 11:25:30,055 [INFO] - process file for pcl is:003840176HDdz3K_printArchive_PG.pdf
+2022-09-09 11:25:30,055 [INFO] - process file for pcl is:003840624YnCzpQ_printArchive_PG.pdf
+2022-09-09 11:25:30,055 [INFO] - process file for pcl is:003841132hKMx5H_printArchive_PG.pdf
+2022-09-09 11:25:30,055 [INFO] - process file for pcl is:003841185ki9a8X_printArchive_PG.pdf
+2022-09-09 11:25:30,055 [INFO] - process file for pcl is:003841185mINFbs_printArchive_PG.pdf
+2022-09-09 11:25:30,055 [INFO] - process file for pcl is:0038416987UYqKd_printArchive_PG.pdf
+2022-09-09 11:25:30,056 [INFO] - process file for pcl is:003841705CsDwPa_printArchive_PG.pdf
+2022-09-09 11:25:30,056 [INFO] - process file for pcl is:003841718sP1XVD_printArchive_PG.pdf
+2022-09-09 11:25:30,056 [INFO] - process file for pcl is:003841729Ok2Tvo_printArchive_PG.pdf
+2022-09-09 11:25:30,056 [INFO] - process file for pcl is:0038417769yyDiH_printArchive_PG.pdf
+2022-09-09 11:25:30,056 [INFO] - process file for pcl is:003841780HjYqju_printArchive_PG.pdf
+2022-09-09 11:25:30,056 [INFO] - process file for pcl is:003841780oUoWBN_printArchive_PG.pdf
+2022-09-09 11:25:30,056 [INFO] - process file for pcl is:003841791riT59Z_printArchive_PG.pdf
+2022-09-09 11:25:30,056 [INFO] - process file for pcl is:0038418611q6Ofp_printArchive_PG.pdf
+2022-09-09 11:25:30,056 [INFO] - process file for pcl is:003841874N4b8Gr_printArchive_PG.pdf
+2022-09-09 11:25:30,056 [INFO] - process file for pcl is:003841874xpC8nH_printArchive_PG.pdf
+2022-09-09 11:25:30,056 [INFO] - process file for pcl is:003841915Zv6caD_printArchive_PG.pdf
+2022-09-09 11:25:30,056 [INFO] - process file for pcl is:003841971aSPHrY_printArchive_PG.pdf
+2022-09-09 11:25:30,056 [INFO] - process file for pcl is:003841971e5d7Z4_printArchive_PG.pdf
+2022-09-09 11:25:30,056 [INFO] - process file for pcl is:003841971t0W37e_printArchive_PG.pdf
+2022-09-09 11:25:30,056 [INFO] - process file for pcl is:003841997RC9a8m_printArchive_PG.pdf
+2022-09-09 11:25:30,056 [INFO] - process file for pcl is:003842065d9OhxQ_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:003842159lESF1z_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:0038421668ndyHL_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:003842166cn4MTw_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:003842226Hj3ZK3_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:0038422586zoiCX_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:0038422604nYOtC_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:003842260gtsFCD_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:003842261Kb00cO_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:003842262R3R9Qk_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:003842262oozgG9_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:003842263q08teh_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:003842263yO6t7r_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:003842264rn1I5D_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:003842265gqNDav_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:0038422695PRs7E_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:003842270fnieak_printArchive_PG.pdf
+2022-09-09 11:25:30,057 [INFO] - process file for pcl is:003842272fc8XO1_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:003842272kTIuud_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:003842272wtnkuf_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:003842273DQAAP1_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:003842274PXMQ9H_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:003842275Wk7nu8_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:003842278pXiM1V_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:003842281V1rkrk_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:003842281xozbrs_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:003842282jtyzDT_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:003842283OrhXo4_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:003842286AJJKTx_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:0038422911SWbzz_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:0038422925jajEN_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:003842293xykXqS_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:0038422997qD7Sm_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:003842300FBHgfN_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:003842303FY1pXQ_printArchive_PG.pdf
+2022-09-09 11:25:30,058 [INFO] - process file for pcl is:003842303IOtXC7_printArchive_PG.pdf
+2022-09-09 11:25:30,059 [INFO] - process file for pcl is:0038423084E7Rb1_printArchive_PG.pdf
+2022-09-09 11:25:30,059 [INFO] - process file for pcl is:899813823yL5inF_printArchive_SelfAddressed_CC_1_1.pdf
+2022-09-09 11:25:30,059 [INFO] - process file for pcl is:899813823yL5inF_printArchive_SelfAddressed_CC_1_Primary.pdf
+2022-09-09 11:25:48,132 [INFO] - banner file is:Banner_7.pdf
+2022-09-09 11:25:53,145 [INFO] - process file for pcl is:001297175nMozpE_printArchive_SelfAddressed_CC_1_1.pdf
+2022-09-09 11:25:53,145 [INFO] - process file for pcl is:001297175nMozpE_printArchive_SelfAddressed_CC_1_Primary.pdf
+2022-09-09 11:25:53,145 [INFO] - process file for pcl is:002231623k6jm3C_printArchive_PG_CC_2_1.pdf
+2022-09-09 11:25:53,145 [INFO] - process file for pcl is:002231623k6jm3C_printArchive_PG_CC_2_2.pdf
+2022-09-09 11:25:53,146 [INFO] - process file for pcl is:002231623k6jm3C_printArchive_PG_CC_2_Primary.pdf
+2022-09-09 11:25:53,146 [INFO] - process file for pcl is:0033684921Th5xN_printArchive_PG.pdf
+2022-09-09 11:25:53,146 [INFO] - process file for pcl is:0033684925o1IJi_printArchive_PG.pdf
+2022-09-09 11:25:53,146 [INFO] - process file for pcl is:003711053BaLS9c_printArchive_PG.pdf
+2022-09-09 11:25:53,146 [INFO] - process file for pcl is:003711063cbcNlx_printArchive_PG.pdf
+2022-09-09 11:25:53,146 [INFO] - process file for pcl is:003711080w21t2D_printArchive_PG.pdf
+2022-09-09 11:25:53,146 [INFO] - process file for pcl is:0037314944CBgJp_printArchive_PG.pdf
+2022-09-09 11:25:53,146 [INFO] - process file for pcl is:003763112sYUS4f_printArchive_PG.pdf
+2022-09-09 11:25:53,146 [INFO] - process file for pcl is:003805189RESAHA_printArchive_PG.pdf
+2022-09-09 11:25:53,146 [INFO] - process file for pcl is:003805302IHcgqo_printArchive_PG_CC_1_1.pdf
+2022-09-09 11:25:53,146 [INFO] - process file for pcl is:003805302IHcgqo_printArchive_PG_CC_1_Primary.pdf
+2022-09-09 11:25:53,146 [INFO] - process file for pcl is:003821916VuBQmU_printArchive_PG.pdf
+2022-09-09 11:25:53,146 [INFO] - process file for pcl is:003823921DKFEUn_printArchive_PG.pdf
+2022-09-09 11:25:53,146 [INFO] - process file for pcl is:003826405CCddxk_printArchive_SelfAddressed.pdf
+2022-09-09 11:25:53,146 [INFO] - process file for pcl is:003827160fRMZhc_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:0038377243k1Z1K_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:003837724GcgdI0_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:003837724fRqgpo_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:003838253rkLYK8_printArchive_PG_CC_1_1.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:003838253rkLYK8_printArchive_PG_CC_1_Primary.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:003838511KlCCh2_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:003840176HDdz3K_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:003840624YnCzpQ_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:003841132hKMx5H_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:003841185ki9a8X_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:003841185mINFbs_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:003841345hot6HG_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:0038416987UYqKd_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:003841705CsDwPa_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:003841718sP1XVD_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:003841729Ok2Tvo_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:0038417769yyDiH_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:003841780HjYqju_printArchive_PG.pdf
+2022-09-09 11:25:53,147 [INFO] - process file for pcl is:003841780oUoWBN_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:003841791riT59Z_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:0038418611q6Ofp_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:0038418614vH1fV_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:003841874N4b8Gr_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:003841874xpC8nH_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:003841915Zv6caD_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:003841971aSPHrY_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:003841971e5d7Z4_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:003841971t0W37e_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:003841997RC9a8m_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:003842015fZDYB4_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:003842065d9OhxQ_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:003842159lESF1z_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:0038421668ndyHL_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:003842166cn4MTw_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:003842226Hj3ZK3_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:0038422586zoiCX_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:0038422604nYOtC_printArchive_PG.pdf
+2022-09-09 11:25:53,148 [INFO] - process file for pcl is:003842260gtsFCD_printArchive_PG.pdf
+2022-09-09 11:25:53,149 [INFO] - process file for pcl is:003842261Kb00cO_printArchive_PG.pdf
+2022-09-09 11:25:53,149 [INFO] - process file for pcl is:003842262R3R9Qk_printArchive_PG.pdf
+2022-09-09 11:25:53,149 [INFO] - process file for pcl is:003842262oozgG9_printArchive_PG.pdf
+2022-09-09 11:25:53,149 [INFO] - process file for pcl is:003842263q08teh_printArchive_PG.pdf
+2022-09-09 11:25:53,149 [INFO] - process file for pcl is:003842263yO6t7r_printArchive_PG.pdf
+2022-09-09 11:25:53,149 [INFO] - process file for pcl is:003842264LByWCV_printArchive_PG.pdf
+2022-09-09 11:25:53,149 [INFO] - process file for pcl is:003842264rn1I5D_printArchive_PG.pdf
+2022-09-09 11:25:53,149 [INFO] - process file for pcl is:003842265gqNDav_printArchive_PG.pdf
+2022-09-09 11:25:53,149 [INFO] - process file for pcl is:0038422695PRs7E_printArchive_PG.pdf
+2022-09-09 11:25:53,149 [INFO] - process file for pcl is:003842270fnieak_printArchive_PG.pdf
+2022-09-09 11:25:53,149 [INFO] - process file for pcl is:003842272fc8XO1_printArchive_PG.pdf
+2022-09-09 11:25:53,149 [INFO] - process file for pcl is:003842272kTIuud_printArchive_PG.pdf
+2022-09-09 11:25:53,149 [INFO] - process file for pcl is:003842272wtnkuf_printArchive_PG.pdf
+2022-09-09 11:25:53,149 [INFO] - process file for pcl is:003842273DQAAP1_printArchive_PG.pdf
+2022-09-09 11:25:53,150 [INFO] - process file for pcl is:003842274PXMQ9H_printArchive_PG.pdf
+2022-09-09 11:25:53,150 [INFO] - process file for pcl is:003842275Wk7nu8_printArchive_PG.pdf
+2022-09-09 11:25:53,150 [INFO] - process file for pcl is:003842278pXiM1V_printArchive_PG.pdf
+2022-09-09 11:25:53,150 [INFO] - process file for pcl is:003842281V1rkrk_printArchive_PG.pdf
+2022-09-09 11:25:53,150 [INFO] - process file for pcl is:003842281xozbrs_printArchive_PG.pdf
+2022-09-09 11:25:53,150 [INFO] - process file for pcl is:003842282jtyzDT_printArchive_PG.pdf
+2022-09-09 11:25:53,150 [INFO] - process file for pcl is:003842283OrhXo4_printArchive_PG.pdf
+2022-09-09 11:25:53,150 [INFO] - process file for pcl is:003842286AJJKTx_printArchive_PG.pdf
+2022-09-09 11:25:53,150 [INFO] - process file for pcl is:003842290wjc7mo_printArchive_PG.pdf
+2022-09-09 11:25:53,150 [INFO] - process file for pcl is:0038422911SWbzz_printArchive_PG.pdf
+2022-09-09 11:25:53,150 [INFO] - process file for pcl is:0038422925jajEN_printArchive_PG.pdf
+2022-09-09 11:25:53,150 [INFO] - process file for pcl is:003842293xykXqS_printArchive_PG.pdf
+2022-09-09 11:25:53,150 [INFO] - process file for pcl is:0038422997qD7Sm_printArchive_PG.pdf
+2022-09-09 11:25:53,150 [INFO] - process file for pcl is:003842300FBHgfN_printArchive_PG.pdf
+2022-09-09 11:25:53,151 [INFO] - process file for pcl is:003842303FY1pXQ_printArchive_PG.pdf
+2022-09-09 11:25:53,151 [INFO] - process file for pcl is:003842303IOtXC7_printArchive_PG.pdf
+2022-09-09 11:25:53,151 [INFO] - process file for pcl is:0038423084E7Rb1_printArchive_PG.pdf
+2022-09-09 11:25:53,151 [INFO] - process file for pcl is:899813823yL5inF_printArchive_SelfAddressed_CC_1_1.pdf
+2022-09-09 11:25:53,151 [INFO] - process file for pcl is:899813823yL5inF_printArchive_SelfAddressed_CC_1_Primary.pdf
+2022-09-09 11:26:18,410 [INFO] - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError j4-20020a170902c08400b00172f6726d8esm498022pld.277 - gsmtp
+
+2022-09-09 11:26:18,425 [INFO] - The license has expired:print pcl file with evaluation copies
+2022-09-09 11:28:12,496 [INFO] - Total number of files archived is 410
+2022-09-09 11:28:13,034 [INFO] - postprocessing ended
+2022-09-09 12:32:12,035 [INFO] - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-09 12:32:12,047 [INFO] - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 21716 (D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main\target\classes started by kumar.charanswain in D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main)
+2022-09-09 12:32:12,050 [INFO] - The following 1 profile is active: "dev"
+2022-09-09 12:32:12,658 [INFO] - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-09 12:32:13,006 [INFO] - Tomcat initialized with port(s): 8080 (http)
+2022-09-09 12:32:13,015 [INFO] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-09 12:32:13,016 [INFO] - Starting service [Tomcat]
+2022-09-09 12:32:13,016 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-09 12:32:13,312 [INFO] - Initializing Spring embedded WebApplicationContext
+2022-09-09 12:32:13,313 [INFO] - Root WebApplicationContext: initialization completed in 1226 ms
+2022-09-09 12:32:16,034 [INFO] - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-09 12:32:16,050 [INFO] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 12:32:16,411 [INFO] - Started PostProcessingApplication in 12.945 seconds (JVM running for 14.068)
+2022-09-09 12:32:22,473 [INFO] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-09 12:32:22,474 [INFO] - Initializing Servlet 'dispatcherServlet'
+2022-09-09 12:32:22,476 [INFO] - Completed initialization in 2 ms
+2022-09-09 12:32:25,734 [INFO] - postprocessing started
+2022-09-09 12:33:08,495 [INFO] - move to print20220907021031W003841268ca5mrp_archiveOnly_PG.pdf
+2022-09-09 12:33:26,092 [INFO] - move to print20220907021031W003841268ca5mrp_archiveOnly_PG.xml
+2022-09-09 12:33:28,677 [INFO] - total number of file inside print is 2
+2022-09-09 12:33:33,389 [INFO] - move to temp-archive20220907021031W003841268ca5mrp_archiveOnly_PG.pdf
+2022-09-09 12:33:35,541 [INFO] - move to temp-archive20220907021031W003841268ca5mrp_archiveOnly_PG.xml
+2022-09-09 12:33:38,032 [INFO] - total number of file inside temp-archive is 2
+2022-09-09 12:34:34,747 [INFO] - process file:20220907021031W003841268ca5mrp_archiveOnly_PG.pdf
+2022-09-09 12:35:08,009 [INFO] - process file:20220907021031W003841268ca5mrp_archiveOnly_PG.xml
+2022-09-09 12:35:42,871 [INFO] - total number of file for processing:2
+2022-09-09 12:36:00,150 [INFO] - Total number of files archived is 2
+2022-09-09 12:36:03,516 [INFO] - postprocessing ended
+2022-09-09 12:46:15,311 [INFO] - postprocessing started
+2022-09-09 12:46:18,189 [INFO] - move to print20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 12:46:19,329 [INFO] - move to print20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 12:46:21,533 [INFO] - total number of file inside print is 2
+2022-09-09 12:46:24,575 [INFO] - move to temp-archive20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 12:46:25,587 [INFO] - move to temp-archive20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 12:46:26,923 [INFO] - total number of file inside temp-archive is 2
+2022-09-09 12:46:31,331 [INFO] - process file:20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 12:46:50,623 [INFO] - process file:20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 12:47:05,083 [INFO] - total number of file for processing:2
+2022-09-09 12:53:25,284 [INFO] - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-09 12:53:25,294 [INFO] - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 18076 (D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main\target\classes started by kumar.charanswain in D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main)
+2022-09-09 12:53:25,296 [INFO] - The following 1 profile is active: "dev"
+2022-09-09 12:53:25,893 [INFO] - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-09 12:53:26,236 [INFO] - Tomcat initialized with port(s): 8080 (http)
+2022-09-09 12:53:26,245 [INFO] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-09 12:53:26,245 [INFO] - Starting service [Tomcat]
+2022-09-09 12:53:26,246 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-09 12:53:26,532 [INFO] - Initializing Spring embedded WebApplicationContext
+2022-09-09 12:53:26,533 [INFO] - Root WebApplicationContext: initialization completed in 1201 ms
+2022-09-09 12:53:29,740 [INFO] - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-09 12:53:29,756 [INFO] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 12:53:30,092 [INFO] - Started PostProcessingApplication in 14.31 seconds (JVM running for 15.328)
+2022-09-09 12:53:36,154 [INFO] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-09 12:53:36,155 [INFO] - Initializing Servlet 'dispatcherServlet'
+2022-09-09 12:53:36,156 [INFO] - Completed initialization in 1 ms
+2022-09-09 12:53:38,334 [INFO] - postprocessing started
+2022-09-09 12:53:41,510 [INFO] - move to print : 20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 12:53:43,014 [INFO] - move to print : 20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 12:53:44,662 [INFO] - total number of file inside print is 2
+2022-09-09 12:53:47,499 [INFO] - move to temp-archive : 20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 12:53:48,517 [INFO] - move to temp-archive : 20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 12:53:50,295 [INFO] - total number of file inside temp-archive is 2
+2022-09-09 12:53:56,390 [INFO] - process file:20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 12:54:16,613 [INFO] - process file:20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 12:54:40,115 [INFO] - total number of file for processing:2
+2022-09-09 12:57:11,097 [INFO] - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-09 12:57:11,110 [INFO] - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 18908 (D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main\target\classes started by kumar.charanswain in D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main)
+2022-09-09 12:57:11,112 [INFO] - The following 1 profile is active: "dev"
+2022-09-09 12:57:12,498 [INFO] - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-09 12:57:13,190 [INFO] - Tomcat initialized with port(s): 8080 (http)
+2022-09-09 12:57:13,202 [INFO] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-09 12:57:13,203 [INFO] - Starting service [Tomcat]
+2022-09-09 12:57:13,203 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-09 12:57:13,645 [INFO] - Initializing Spring embedded WebApplicationContext
+2022-09-09 12:57:13,646 [INFO] - Root WebApplicationContext: initialization completed in 2453 ms
+2022-09-09 12:57:17,324 [INFO] - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-09 12:57:17,353 [INFO] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 12:57:18,009 [INFO] - Started PostProcessingApplication in 17.174 seconds (JVM running for 18.466)
+2022-09-09 12:59:32,669 [INFO] - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-09 12:59:32,677 [INFO] - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 20216 (D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main\target\classes started by kumar.charanswain in D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main)
+2022-09-09 12:59:32,679 [INFO] - The following 1 profile is active: "dev"
+2022-09-09 12:59:33,297 [INFO] - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-09 12:59:33,633 [INFO] - Tomcat initialized with port(s): 8080 (http)
+2022-09-09 12:59:33,644 [INFO] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-09 12:59:33,645 [INFO] - Starting service [Tomcat]
+2022-09-09 12:59:33,645 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-09 12:59:33,921 [INFO] - Initializing Spring embedded WebApplicationContext
+2022-09-09 12:59:33,921 [INFO] - Root WebApplicationContext: initialization completed in 1206 ms
+2022-09-09 12:59:37,176 [INFO] - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-09 12:59:37,193 [INFO] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 12:59:37,531 [INFO] - Started PostProcessingApplication in 14.619 seconds (JVM running for 15.631)
+2022-09-09 12:59:51,679 [INFO] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-09 12:59:51,679 [INFO] - Initializing Servlet 'dispatcherServlet'
+2022-09-09 12:59:51,680 [INFO] - Completed initialization in 1 ms
+2022-09-09 13:00:01,696 [INFO] - postprocessing started
+2022-09-09 13:00:08,090 [INFO] - move to print : 20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:00:08,356 [INFO] - move to print : 20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 13:00:10,626 [INFO] - total number of file inside print is 2
+2022-09-09 13:00:10,779 [INFO] - move to temp-archive : 20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:00:10,898 [INFO] - move to temp-archive : 20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 13:00:12,404 [INFO] - total number of file inside temp-archive is 2
+2022-09-09 13:00:19,609 [INFO] - process file:20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:01:34,784 [INFO] - process file:20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 13:01:44,424 [INFO] - total number of file for processing:2
+2022-09-09 13:02:15,129 [INFO] - banner file is:Banner_2.pdf
+2022-09-09 13:02:15,944 [INFO] - process file for pcl is:003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:02:23,679 [INFO] - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError oa15-20020a17090b1bcf00b0020263b7177csm8545523pjb.3 - gsmtp
+
+2022-09-09 13:02:28,285 [INFO] - The license has expired:print pcl file with evaluation copies
+2022-09-09 13:02:32,157 [INFO] - Total number of files archived is 2
+2022-09-09 13:02:37,043 [INFO] - postprocessing ended
+2022-09-09 13:07:01,082 [INFO] - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-09 13:07:01,105 [INFO] - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 3172 (D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main\target\classes started by kumar.charanswain in D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main)
+2022-09-09 13:07:01,107 [INFO] - The following 1 profile is active: "dev"
+2022-09-09 13:07:01,717 [INFO] - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-09 13:07:02,072 [INFO] - Tomcat initialized with port(s): 8080 (http)
+2022-09-09 13:07:02,081 [INFO] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-09 13:07:02,081 [INFO] - Starting service [Tomcat]
+2022-09-09 13:07:02,081 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-09 13:07:02,354 [INFO] - Initializing Spring embedded WebApplicationContext
+2022-09-09 13:07:02,354 [INFO] - Root WebApplicationContext: initialization completed in 1210 ms
+2022-09-09 13:07:05,341 [INFO] - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-09 13:07:05,356 [INFO] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 13:07:05,704 [INFO] - Started PostProcessingApplication in 13.689 seconds (JVM running for 14.718)
+2022-09-09 13:07:41,225 [INFO] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-09 13:07:41,233 [INFO] - Initializing Servlet 'dispatcherServlet'
+2022-09-09 13:07:41,235 [INFO] - Completed initialization in 1 ms
+2022-09-09 13:07:41,300 [INFO] - postprocessing started
+2022-09-09 13:07:42,745 [INFO] - move to print : 20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:07:43,164 [INFO] - move to print : 20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 13:07:43,432 [INFO] - move to print : 20220907021031W003841268ca5mrp_archiveOnly_PG.pdf
+2022-09-09 13:07:43,741 [INFO] - move to print : 20220907021031W003841268ca5mrp_archiveOnly_PG.xml
+2022-09-09 13:07:44,147 [INFO] - move to print : 20220907021032W0038412708VDxpC_archiveOnly_PG.pdf
+2022-09-09 13:07:44,531 [INFO] - move to print : 20220907021032W0038412708VDxpC_archiveOnly_PG.xml
+2022-09-09 13:07:45,129 [INFO] - move to print : 20220907021033W003841297lpMkWA_printArchive_PG.pdf
+2022-09-09 13:07:45,555 [INFO] - move to print : 20220907021033W003841297lpMkWA_printArchive_PG.xml
+2022-09-09 13:07:45,950 [INFO] - total number of file inside print is 8
+2022-09-09 13:07:46,232 [INFO] - move to temp-archive : 20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:07:46,432 [INFO] - move to temp-archive : 20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 13:07:46,642 [INFO] - move to temp-archive : 20220907021031W003841268ca5mrp_archiveOnly_PG.pdf
+2022-09-09 13:07:46,851 [INFO] - move to temp-archive : 20220907021031W003841268ca5mrp_archiveOnly_PG.xml
+2022-09-09 13:07:46,980 [INFO] - move to temp-archive : 20220907021032W0038412708VDxpC_archiveOnly_PG.pdf
+2022-09-09 13:07:47,158 [INFO] - move to temp-archive : 20220907021032W0038412708VDxpC_archiveOnly_PG.xml
+2022-09-09 13:07:47,306 [INFO] - move to temp-archive : 20220907021033W003841297lpMkWA_printArchive_PG.pdf
+2022-09-09 13:07:47,470 [INFO] - move to temp-archive : 20220907021033W003841297lpMkWA_printArchive_PG.xml
+2022-09-09 13:07:50,492 [INFO] - total number of file inside temp-archive is 8
+2022-09-09 13:07:54,245 [INFO] - process file:20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:07:55,989 [INFO] - process file:20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 13:07:56,590 [INFO] - process file:20220907021031W003841268ca5mrp_archiveOnly_PG.pdf
+2022-09-09 13:07:57,065 [INFO] - process file:20220907021031W003841268ca5mrp_archiveOnly_PG.xml
+2022-09-09 13:07:57,517 [INFO] - process file:20220907021032W0038412708VDxpC_archiveOnly_PG.pdf
+2022-09-09 13:07:58,134 [INFO] - process file:20220907021032W0038412708VDxpC_archiveOnly_PG.xml
+2022-09-09 13:07:58,556 [INFO] - process file:20220907021033W003841297lpMkWA_printArchive_PG.pdf
+2022-09-09 13:07:59,659 [INFO] - process file:20220907021033W003841297lpMkWA_printArchive_PG.xml
+2022-09-09 13:08:00,258 [INFO] - total number of file for processing:8
+2022-09-09 13:08:01,098 [INFO] - banner file is:Banner_2.pdf
+2022-09-09 13:08:02,115 [INFO] - process file for pcl is:003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:08:12,415 [INFO] - Genetaed pcl file is:page2_2022-09-09_13.08.02.pcl
+2022-09-09 13:08:12,531 [INFO] - banner file is:Banner_3.pdf
+2022-09-09 13:08:13,280 [INFO] - process file for pcl is:003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:08:13,285 [INFO] - process file for pcl is:003841297lpMkWA_printArchive_PG.pdf
+2022-09-09 13:08:14,858 [INFO] - Genetaed pcl file is:page3_2022-09-09_13.08.13.pcl
+2022-09-09 13:08:18,183 [INFO] - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError b2-20020a636702000000b0041cd2417c66sm664121pgc.18 - gsmtp
+
+2022-09-09 13:08:18,199 [INFO] - The license has expired:print pcl file with evaluation copies
+2022-09-09 13:08:20,749 [INFO] - Total number of files archived is 8
+2022-09-09 13:08:21,081 [INFO] - postprocessing ended
+2022-09-09 13:13:09,146 [INFO] - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-09 13:13:09,157 [INFO] - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 19872 (D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main\target\classes started by kumar.charanswain in D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main)
+2022-09-09 13:13:09,159 [INFO] - The following 1 profile is active: "dev"
+2022-09-09 13:13:09,802 [INFO] - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-09 13:13:10,131 [INFO] - Tomcat initialized with port(s): 8080 (http)
+2022-09-09 13:13:10,145 [INFO] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-09 13:13:10,146 [INFO] - Starting service [Tomcat]
+2022-09-09 13:13:10,146 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-09 13:13:10,444 [INFO] - Initializing Spring embedded WebApplicationContext
+2022-09-09 13:13:10,445 [INFO] - Root WebApplicationContext: initialization completed in 1250 ms
+2022-09-09 13:13:13,880 [INFO] - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-09 13:13:13,896 [INFO] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 13:13:14,235 [INFO] - Started PostProcessingApplication in 14.481 seconds (JVM running for 15.507)
+2022-09-09 13:13:18,800 [INFO] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-09 13:13:18,800 [INFO] - Initializing Servlet 'dispatcherServlet'
+2022-09-09 13:13:18,800 [INFO] - Completed initialization in 0 ms
+2022-09-09 13:13:18,829 [INFO] - postprocessing started
+2022-09-09 13:13:19,512 [INFO] - move to print : 20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:13:19,777 [INFO] - move to print : 20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 13:13:20,104 [INFO] - total number of file inside print is 2
+2022-09-09 13:13:20,209 [INFO] - move to temp-archive : 20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:13:20,323 [INFO] - move to temp-archive : 20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 13:13:20,434 [INFO] - total number of file inside temp-archive is 2
+2022-09-09 13:13:20,538 [INFO] - process file:20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:13:24,362 [INFO] - process file:20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 13:13:35,113 [INFO] - total number of file for processing:2
+2022-09-09 13:14:42,167 [INFO] - banner file is:Banner_2.pdf
+2022-09-09 13:14:42,427 [INFO] - process file for pcl is:20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:17:21,275 [INFO] - Genetaed pcl file is:page2_2022-09-09_13.14.43.pcl
+2022-09-09 13:17:39,038 [INFO] - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError i14-20020a056a00004e00b0053818255880sm934589pfk.193 - gsmtp
+
+2022-09-09 13:17:39,046 [INFO] - The license has expired:print pcl file with evaluation copies
+2022-09-09 13:17:41,865 [INFO] - Total number of files archived is 2
+2022-09-09 13:17:42,927 [INFO] - postprocessing ended
+2022-09-09 13:21:39,029 [INFO] - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-09 13:21:39,044 [INFO] - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 6936 (D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main\target\classes started by kumar.charanswain in D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main)
+2022-09-09 13:21:39,046 [INFO] - The following 1 profile is active: "dev"
+2022-09-09 13:21:39,668 [INFO] - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-09 13:21:40,011 [INFO] - Tomcat initialized with port(s): 8080 (http)
+2022-09-09 13:21:40,024 [INFO] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-09 13:21:40,024 [INFO] - Starting service [Tomcat]
+2022-09-09 13:21:40,025 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-09 13:21:40,296 [INFO] - Initializing Spring embedded WebApplicationContext
+2022-09-09 13:21:40,297 [INFO] - Root WebApplicationContext: initialization completed in 1216 ms
+2022-09-09 13:21:43,079 [INFO] - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-09 13:21:43,093 [INFO] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 13:21:43,425 [INFO] - Started PostProcessingApplication in 13.183 seconds (JVM running for 14.221)
+2022-09-09 13:21:47,730 [INFO] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-09 13:21:47,730 [INFO] - Initializing Servlet 'dispatcherServlet'
+2022-09-09 13:21:47,732 [INFO] - Completed initialization in 0 ms
+2022-09-09 13:21:47,762 [INFO] - postprocessing started
+2022-09-09 13:21:52,074 [INFO] - total number of file inside print is 0
+2022-09-09 13:21:52,301 [INFO] - total number of file inside temp-archive is 0
+2022-09-09 13:21:58,805 [INFO] - total number of file for processing:0
+2022-09-09 13:22:04,998 [INFO] - Total number of files archived is 0
+2022-09-09 13:22:06,295 [INFO] - postprocessing ended
+2022-09-09 13:22:33,127 [INFO] - postprocessing started
+2022-09-09 13:22:33,276 [INFO] - move to print : 20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:22:33,532 [INFO] - move to print : 20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 13:22:35,316 [INFO] - total number of file inside print is 2
+2022-09-09 13:22:35,456 [INFO] - move to temp-archive : 20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:22:35,578 [INFO] - move to temp-archive : 20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 13:22:36,287 [INFO] - total number of file inside temp-archive is 2
+2022-09-09 13:22:40,137 [INFO] - process file:20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:24:58,435 [INFO] - process file:20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 13:28:21,748 [INFO] - total number of file for processing:2
+2022-09-09 13:29:42,621 [INFO] - banner file is:Banner_2.pdf
+2022-09-09 13:29:42,743 [INFO] - process file for pcl is:20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:32:25,574 [INFO] - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-09 13:32:25,589 [INFO] - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 17316 (D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main\target\classes started by kumar.charanswain in D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main)
+2022-09-09 13:32:25,600 [INFO] - The following 1 profile is active: "dev"
+2022-09-09 13:32:26,226 [INFO] - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-09 13:32:26,567 [INFO] - Tomcat initialized with port(s): 8080 (http)
+2022-09-09 13:32:26,577 [INFO] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-09 13:32:26,577 [INFO] - Starting service [Tomcat]
+2022-09-09 13:32:26,577 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-09 13:32:26,875 [INFO] - Initializing Spring embedded WebApplicationContext
+2022-09-09 13:32:26,875 [INFO] - Root WebApplicationContext: initialization completed in 1239 ms
+2022-09-09 13:32:29,848 [INFO] - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-09 13:32:29,865 [INFO] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 13:32:30,253 [INFO] - Started PostProcessingApplication in 13.782 seconds (JVM running for 14.806)
+2022-09-09 13:32:33,299 [INFO] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-09 13:32:33,299 [INFO] - Initializing Servlet 'dispatcherServlet'
+2022-09-09 13:32:33,300 [INFO] - Completed initialization in 1 ms
+2022-09-09 13:32:33,328 [INFO] - postprocessing started
+2022-09-09 13:32:34,201 [INFO] - move to print : 20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:32:34,463 [INFO] - move to print : 20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 13:32:37,055 [INFO] - total number of file inside print is 2
+2022-09-09 13:32:37,166 [INFO] - move to temp-archive : 20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:32:37,269 [INFO] - move to temp-archive : 20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 13:32:37,873 [INFO] - total number of file inside temp-archive is 2
+2022-09-09 13:32:41,466 [INFO] - process file:20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:32:46,119 [INFO] - process file:20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 13:32:57,742 [INFO] - total number of file for processing:2
+2022-09-09 13:33:03,693 [INFO] - banner file is:Banner_2.pdf
+2022-09-09 13:33:04,118 [INFO] - process file for pcl is:20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 13:33:14,606 [INFO] - Genetaed pcl file is:page2_2022-09-09_13.33.04.pcl
+2022-09-09 13:33:14,607 [INFO] - generate pcl file is :page2_2022-09-09_13.33.04.pcl
+2022-09-09 13:33:18,546 [INFO] - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError b9-20020a63e709000000b0042fe1914e26sm713157pgi.37 - gsmtp
+
+2022-09-09 13:33:18,554 [INFO] - The license has expired:print pcl file with evaluation copies
+2022-09-09 13:33:21,756 [INFO] - Total number of files archived is 2
+2022-09-09 13:33:22,444 [INFO] - postprocessing ended
+2022-09-09 14:10:20,712 [INFO] - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-09 14:10:20,724 [INFO] - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 19740 (D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main\target\classes started by kumar.charanswain in D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main)
+2022-09-09 14:10:20,725 [INFO] - The following 1 profile is active: "dev"
+2022-09-09 14:10:21,951 [INFO] - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-09 14:10:22,731 [INFO] - Tomcat initialized with port(s): 8080 (http)
+2022-09-09 14:10:22,757 [INFO] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-09 14:10:22,758 [INFO] - Starting service [Tomcat]
+2022-09-09 14:10:22,759 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-09 14:10:23,246 [INFO] - Initializing Spring embedded WebApplicationContext
+2022-09-09 14:10:23,246 [INFO] - Root WebApplicationContext: initialization completed in 2427 ms
+2022-09-09 14:10:28,208 [INFO] - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-09 14:10:28,229 [INFO] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 14:10:28,813 [INFO] - Started PostProcessingApplication in 17.52 seconds (JVM running for 18.664)
+2022-09-09 14:11:33,483 [INFO] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-09 14:11:33,483 [INFO] - Initializing Servlet 'dispatcherServlet'
+2022-09-09 14:11:33,484 [INFO] - Completed initialization in 1 ms
+2022-09-09 14:11:33,511 [INFO] - postprocessing started
+2022-09-09 14:11:34,246 [INFO] - move to print : 20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 14:11:34,526 [INFO] - move to print : 20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 14:11:36,352 [INFO] - total number of file inside print is 2
+2022-09-09 14:11:36,465 [INFO] - move to temp-archive : 20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 14:11:36,567 [INFO] - move to temp-archive : 20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 14:11:38,151 [INFO] - total number of file inside temp-archive is 2
+2022-09-09 14:11:49,646 [INFO] - process file:20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 14:12:20,737 [INFO] - process file:20220907021030W003841234tCC1V9_printArchive_PG.xml
+2022-09-09 14:12:46,643 [INFO] - total number of file for processing:2
+2022-09-09 14:14:53,907 [INFO] - banner file is:Banner_2.pdf
+2022-09-09 14:14:54,019 [INFO] - process file for pcl is:20220907021030W003841234tCC1V9_printArchive_PG.pdf
+2022-09-09 14:18:19,353 [INFO] - Genetaed pcl file is:page2_2022-09-09_14.16.04.pcl
+2022-09-09 14:19:46,724 [INFO] - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError f195-20020a6238cc000000b0053b850b17c8sm1072431pfa.152 - gsmtp
+
+2022-09-09 14:20:20,578 [INFO] - The license has expired:print pcl file with evaluation copies
+2022-09-09 14:20:37,629 [INFO] - Total number of files archived is 2
+2022-09-09 14:32:48,872 [INFO] - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-09 14:32:48,878 [INFO] - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 1844 (D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main\target\classes started by kumar.charanswain in D:\Kumar-Doc\postprocessing-code\postprocessing-key-vault-add-completed-file-main)
+2022-09-09 14:32:48,878 [INFO] - The following 1 profile is active: "dev"
+2022-09-09 14:32:49,565 [INFO] - BeanFactory id=fe5793cc-42aa-3d49-84b9-f594a9588607
+2022-09-09 14:32:49,925 [INFO] - Tomcat initialized with port(s): 8080 (http)
+2022-09-09 14:32:49,935 [INFO] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-09 14:32:49,935 [INFO] - Starting service [Tomcat]
+2022-09-09 14:32:49,935 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-09 14:32:50,309 [INFO] - Initializing Spring embedded WebApplicationContext
+2022-09-09 14:32:50,309 [INFO] - Root WebApplicationContext: initialization completed in 1390 ms
+2022-09-09 14:32:54,537 [INFO] - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-09 14:32:54,572 [INFO] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 14:32:54,931 [INFO] - Started PostProcessingApplication in 16.661 seconds (JVM running for 19.962)
+2022-09-09 14:33:02,373 [INFO] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-09 14:33:02,373 [INFO] - Initializing Servlet 'dispatcherServlet'
+2022-09-09 14:33:02,379 [INFO] - Completed initialization in 1 ms
+2022-09-09 14:33:02,417 [INFO] - postprocessing started
+2022-09-09 14:33:03,135 [INFO] - total number of file inside print is 0
+2022-09-09 14:33:03,451 [INFO] - total number of file inside temp-archive is 0
+2022-09-09 14:33:03,552 [INFO] - total number of file for processing:0
+2022-09-09 14:33:07,184 [INFO] - Total number of files archived is 0
